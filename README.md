@@ -14,10 +14,22 @@ made so far.
 |---|---|
 | Build script (`scripts/ircc_dashboard_pr_by_country.py`) | ✅ In repo, verified against baseline output |
 | Clean data (`data/clean/pr_citz_long_clean.csv`) | ✅ In repo, 29,296 rows |
-| Fetch script (raw IRCC download) | Not yet written — data source confirmed, see below |
-| Raw → clean transform | Not yet written |
-| GitHub Actions automation | Not yet written |
-| GitHub Pages hosting | Not yet configured |
+| Fetch script (`scripts/fetch_ircc_data.py`) | ✅ Written, untested end-to-end (see note below) |
+| Raw → clean transform | Not yet written — need to see the raw file's actual structure first |
+| GitHub Actions automation (`.github/workflows/pipeline.yml`) | Manual-trigger skeleton in place (fetch + build + deploy). Clean step and the `schedule:` trigger are added once the transform script exists and a few manual runs succeed. |
+| GitHub Pages hosting | Needs a one-time manual step — see below |
+
+**Untested fetch note**: this repo is being built from a sandboxed session
+that cannot reach `ircc.canada.ca` (network policy blocks it), so
+`fetch_ircc_data.py` has not actually been run against the live URL yet.
+It'll get its first real test when the workflow above is run manually.
+
+## One-time GitHub Pages setup
+
+In the repo's **Settings → Pages**, set "Build and deployment" source to
+**GitHub Actions** (not "Deploy from a branch"). That's the only manual
+step — after that, running the `Update PR Dashboard` workflow deploys
+`output/pr_dashboard.html` automatically.
 
 ## Data source
 

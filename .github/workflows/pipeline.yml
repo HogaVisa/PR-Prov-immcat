@@ -1,0 +1,63 @@
+name: Update PR Dashboard
+
+# Manual trigger only for now. The clean/transform step (raw IRCC XLSX ->
+# data/clean/pr_citz_long_clean.csv) isn't written yet — see README. Once
+# that's in place and this has been run successfully a few times by hand,
+# add a `schedule:` trigger here (e.g. weekly) so it checks for updates on
+# its own.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch latest IRCC data
+        run: python scripts/fetch_ircc_data.py
+
+      # TODO: add the clean/transform step once written, e.g.
+      # - name: Clean raw data
+      #   run: python scripts/clean_ircc_data.py
+
+      - name: Build dashboard
+        run: python scripts/ircc_dashboard_pr_by_country.py data/clean/pr_citz_long_clean.csv --output_dir output
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/clean
+          git diff --cached --quiet || git commit -m "Update cleaned PR data [automated]"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
