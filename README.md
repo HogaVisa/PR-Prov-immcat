@@ -14,19 +14,12 @@ made so far.
 |---|---|
 | Build script (`scripts/ircc_dashboard_pr_by_country.py`) | ✅ In repo, verified against baseline output |
 | Clean data (`data/clean/pr_citz_long_clean.csv`) | ✅ In repo, 29,730 rows, current through May 2026 |
-| Fetch script (`scripts/fetch_ircc_data.py`) | ✅ Written, untested end-to-end (see note below) |
+| Fetch script (`scripts/fetch_ircc_data.py`) | ✅ Verified live in GitHub Actions |
 | Raw → clean transform (`scripts/clean_ircc_data.py`) | ✅ Written and verified against a real downloaded raw file — output matched the prior clean CSV exactly except 11 rows IRCC itself revised in its most recent preliminary months |
-| GitHub Actions automation (`.github/workflows/pipeline.yml`) | Manual-trigger workflow in place (fetch → clean → build → deploy). Add a `schedule:` trigger once a manual run succeeds in Actions. |
-| GitHub Pages hosting | Needs a one-time manual step — see below |
+| GitHub Actions automation (`.github/workflows/pipeline.yml`) | ✅ Fetch → clean → build → deploy all confirmed working via a manual run. Runs weekly on a `schedule:` trigger. |
+| GitHub Pages hosting | ✅ Live at `https://hogavisa.github.io/PR-Prov-immcat/pr_dashboard.html` (repo made public — required for Pages on the free plan) |
 
-**Untested fetch note**: this repo is being built from a sandboxed session
-that cannot reach `ircc.canada.ca` (network policy blocks it), so
-`fetch_ircc_data.py` has not actually been run against the live URL yet —
-only the clean/build steps have been verified, against a raw file
-Nicholas downloaded and uploaded by hand. It'll get its first real
-end-to-end test when the workflow is run manually from the Actions tab.
-
-## One-time GitHub Pages setup
+## One-time GitHub Pages setup (already done)
 
 In the repo's **Settings → Pages**, set "Build and deployment" source to
 **GitHub Actions** (not "Deploy from a branch"). That's the only manual
@@ -62,6 +55,28 @@ scripts/    fetch / clean / build scripts
 output/     generated dashboard HTML (gitignored, deployed separately)
 .github/workflows/   scheduled fetch -> clean -> build -> deploy pipeline
 ```
+
+## Embedding on hogavisa.com (Wix)
+
+The dashboard is a self-contained page, so it embeds the same way
+Nicholas's other blog widgets do — as an iframe pointed at the live URL:
+
+```html
+<iframe
+  src="https://hogavisa.github.io/PR-Prov-immcat/pr_dashboard.html"
+  style="width:100%; height:900px; border:none;"
+  loading="lazy">
+</iframe>
+```
+
+In Wix: add an **Embed → Custom Embeds → Embed a Widget** (or "HTML
+iframe") element on the page, paste the snippet above, and adjust
+`height` until the sidebar + all four charts fit without an inner
+scrollbar (the dashboard itself doesn't scroll internally — increase
+`height` if content is cut off; ~900px fits the current 5-metric layout
+comfortably on desktop). No Wix-side changes are needed when the
+dashboard's data refreshes — the iframe always points at the same URL
+and just shows whatever the pipeline last deployed.
 
 ## Design decisions (confirmed with Nicholas)
 

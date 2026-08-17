@@ -1,15 +1,14 @@
 name: Update PR Dashboard
 
-# Manual trigger only for now. Fetch, clean, and build have all been
-# verified against a real downloaded IRCC file, but this exact workflow
-# hasn't had a live run in GitHub Actions yet (this session's network
-# policy can't reach ircc.canada.ca to test the fetch step end-to-end).
-# Once a manual run (Actions tab -> Run workflow) succeeds, add a
-# `schedule:` trigger here (e.g. weekly) so it checks for updates on its
-# own — IRCC's exact monthly publish day isn't confirmed, so a weekly
-# check is a safe way to catch updates without needing to know it.
+# Verified end-to-end with a live manual run (fetch -> clean -> build ->
+# deploy all succeeded). Runs weekly since IRCC's exact monthly publish
+# day isn't confirmed — a weekly check catches updates without needing
+# to know it, and is a no-op (nothing to commit/deploy) on weeks with no
+# new data. workflow_dispatch is kept for on-demand manual runs.
 on:
   workflow_dispatch: {}
+  schedule:
+    - cron: "0 13 * * 1"  # every Monday, 13:00 UTC
 
 permissions:
   contents: write
