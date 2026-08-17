@@ -12,7 +12,7 @@ made so far.
 
 | Piece | Status |
 |---|---|
-| Build script (`scripts/ircc_dashboard_pr_by_country.py`) | **Missing — need it from Nicholas.** Referenced in the original handoff as working code but was not carried over into this repo yet. |
+| Build script (`scripts/ircc_dashboard_pr_by_country.py`) | ✅ In repo, verified against baseline output |
 | Clean data (`data/clean/pr_citz_long_clean.csv`) | ✅ In repo, 29,296 rows |
 | Fetch script (raw IRCC download) | Not yet written — data source confirmed, see below |
 | Raw → clean transform | Not yet written |
