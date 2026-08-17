@@ -12,12 +12,26 @@ made so far.
 
 | Piece | Status |
 |---|---|
-| Build script (`scripts/ircc_dashboard_pr_by_country.py`) | **Missing — need it from Nicholas.** Referenced in the original handoff as working code but was not carried over into this repo yet. |
-| Clean data (`data/clean/pr_citz_long_clean.csv`) | ✅ In repo, 29,296 rows |
-| Fetch script (raw IRCC download) | Not yet written — data source confirmed, see below |
-| Raw → clean transform | Not yet written |
-| GitHub Actions automation | Not yet written |
-| GitHub Pages hosting | Not yet configured |
+| Build script (`scripts/ircc_dashboard_pr_by_country.py`) | ✅ In repo, verified against baseline output |
+| Clean data (`data/clean/pr_citz_long_clean.csv`) | ✅ In repo, 29,730 rows, current through May 2026 |
+| Fetch script (`scripts/fetch_ircc_data.py`) | ✅ Written, untested end-to-end (see note below) |
+| Raw → clean transform (`scripts/clean_ircc_data.py`) | ✅ Written and verified against a real downloaded raw file — output matched the prior clean CSV exactly except 11 rows IRCC itself revised in its most recent preliminary months |
+| GitHub Actions automation (`.github/workflows/pipeline.yml`) | Manual-trigger workflow in place (fetch → clean → build → deploy). Add a `schedule:` trigger once a manual run succeeds in Actions. |
+| GitHub Pages hosting | Needs a one-time manual step — see below |
+
+**Untested fetch note**: this repo is being built from a sandboxed session
+that cannot reach `ircc.canada.ca` (network policy blocks it), so
+`fetch_ircc_data.py` has not actually been run against the live URL yet —
+only the clean/build steps have been verified, against a raw file
+Nicholas downloaded and uploaded by hand. It'll get its first real
+end-to-end test when the workflow is run manually from the Actions tab.
+
+## One-time GitHub Pages setup
+
+In the repo's **Settings → Pages**, set "Build and deployment" source to
+**GitHub Actions** (not "Deploy from a branch"). That's the only manual
+step — after that, running the `Update PR Dashboard` workflow deploys
+`output/pr_dashboard.html` automatically.
 
 ## Data source
 
@@ -28,15 +42,15 @@ resource:
 - Dataset page: https://open.canada.ca/data/en/dataset/f7e5498e-0ad8-4417-85c9-9b8aff9b9eda
 - Direct file: https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-PR-Citz.xlsx
 
-The filename (`PR-Citz`) matches this repo's existing clean CSVs
-(`pr_citz_long_clean.csv`, `pr_citz_wide_clean.csv`), which is a strong
-signal this is the same source the original manual pipeline used —
-still worth a one-time visual confirmation against a previous manual
-export before fully trusting it.
+Confirmed as the correct source: Nicholas downloaded this file by hand
+and its cleaned output matches the prior manually-produced CSV almost
+exactly (see status table above).
 
-Values between 0 and 5 are suppressed in the source (shown as `--`) and
-all other values are rounded to the nearest multiple of 5 — the clean/
-transform script needs to handle that.
+Raw sheet is `PR - CITZ`, one row per country, one merged column-block
+per year (Jan–Dec plus quarterly subtotal columns, which are skipped).
+Values between 0 and 5 are suppressed (shown as `--`, parsed as blank/
+NaN) and everything else is rounded to the nearest multiple of 5 —
+`clean_ircc_data.py` handles both.
 
 ## Planned layout
 
