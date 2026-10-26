@@ -138,6 +138,7 @@ Afghanistan,2026,Apr,2026-04-01,180.0
 Afghanistan,2026,May,2026-05-01,830.0
 Afghanistan,2026,Jun,2026-06-01,695.0
 Afghanistan,2026,Jul,2026-07-01,585.0
+Afghanistan,2026,Aug,2026-08-01,745.0
 Albania,2015,Jan,2015-01-01,15.0
 Albania,2015,Feb,2015-02-01,25.0
 Albania,2015,Mar,2015-03-01,50.0
@@ -277,6 +278,7 @@ Albania,2026,Apr,2026-04-01,20.0
 Albania,2026,May,2026-05-01,40.0
 Albania,2026,Jun,2026-06-01,45.0
 Albania,2026,Jul,2026-07-01,45.0
+Albania,2026,Aug,2026-08-01,40.0
 Algeria,2015,Jan,2015-01-01,80.0
 Algeria,2015,Feb,2015-02-01,125.0
 Algeria,2015,Mar,2015-03-01,235.0
@@ -416,6 +418,7 @@ Algeria,2026,Apr,2026-04-01,715.0
 Algeria,2026,May,2026-05-01,675.0
 Algeria,2026,Jun,2026-06-01,555.0
 Algeria,2026,Jul,2026-07-01,895.0
+Algeria,2026,Aug,2026-08-01,525.0
 Andorra,2015,Jan,2015-01-01,0.0
 Andorra,2015,Feb,2015-02-01,0.0
 Andorra,2015,Mar,2015-03-01,0.0
@@ -555,6 +558,7 @@ Andorra,2026,Apr,2026-04-01,0.0
 Andorra,2026,May,2026-05-01,0.0
 Andorra,2026,Jun,2026-06-01,0.0
 Andorra,2026,Jul,2026-07-01,0.0
+Andorra,2026,Aug,2026-08-01,0.0
 Angola,2015,Jan,2015-01-01,
 Angola,2015,Feb,2015-02-01,0.0
 Angola,2015,Mar,2015-03-01,
@@ -694,6 +698,7 @@ Angola,2026,Apr,2026-04-01,5.0
 Angola,2026,May,2026-05-01,5.0
 Angola,2026,Jun,2026-06-01,15.0
 Angola,2026,Jul,2026-07-01,20.0
+Angola,2026,Aug,2026-08-01,40.0
 Antigua and Barbuda,2015,Jan,2015-01-01,
 Antigua and Barbuda,2015,Feb,2015-02-01,5.0
 Antigua and Barbuda,2015,Mar,2015-03-01,10.0
@@ -833,6 +838,7 @@ Antigua and Barbuda,2026,Apr,2026-04-01,5.0
 Antigua and Barbuda,2026,May,2026-05-01,
 Antigua and Barbuda,2026,Jun,2026-06-01,10.0
 Antigua and Barbuda,2026,Jul,2026-07-01,10.0
+Antigua and Barbuda,2026,Aug,2026-08-01,10.0
 Argentina,2015,Jan,2015-01-01,10.0
 Argentina,2015,Feb,2015-02-01,15.0
 Argentina,2015,Mar,2015-03-01,15.0
@@ -972,6 +978,7 @@ Argentina,2026,Apr,2026-04-01,25.0
 Argentina,2026,May,2026-05-01,30.0
 Argentina,2026,Jun,2026-06-01,45.0
 Argentina,2026,Jul,2026-07-01,30.0
+Argentina,2026,Aug,2026-08-01,50.0
 Armenia,2015,Jan,2015-01-01,10.0
 Armenia,2015,Feb,2015-02-01,10.0
 Armenia,2015,Mar,2015-03-01,10.0
@@ -1111,6 +1118,7 @@ Armenia,2026,Apr,2026-04-01,5.0
 Armenia,2026,May,2026-05-01,10.0
 Armenia,2026,Jun,2026-06-01,
 Armenia,2026,Jul,2026-07-01,20.0
+Armenia,2026,Aug,2026-08-01,30.0
 Australia,2015,Jan,2015-01-01,95.0
 Australia,2015,Feb,2015-02-01,70.0
 Australia,2015,Mar,2015-03-01,100.0
@@ -1249,7 +1257,8 @@ Australia,2026,Mar,2026-03-01,65.0
 Australia,2026,Apr,2026-04-01,55.0
 Australia,2026,May,2026-05-01,45.0
 Australia,2026,Jun,2026-06-01,40.0
-Australia,2026,Jul,2026-07-01,65.0
+Australia,2026,Jul,2026-07-01,70.0
+Australia,2026,Aug,2026-08-01,50.0
 Austria,2015,Jan,2015-01-01,10.0
 Austria,2015,Feb,2015-02-01,10.0
 Austria,2015,Mar,2015-03-01,5.0
@@ -1389,6 +1398,7 @@ Austria,2026,Apr,2026-04-01,5.0
 Austria,2026,May,2026-05-01,5.0
 Austria,2026,Jun,2026-06-01,5.0
 Austria,2026,Jul,2026-07-01,
+Austria,2026,Aug,2026-08-01,
 Azerbaijan,2015,Jan,2015-01-01,5.0
 Azerbaijan,2015,Feb,2015-02-01,10.0
 Azerbaijan,2015,Mar,2015-03-01,
@@ -1528,6 +1538,7 @@ Azerbaijan,2026,Apr,2026-04-01,15.0
 Azerbaijan,2026,May,2026-05-01,30.0
 Azerbaijan,2026,Jun,2026-06-01,30.0
 Azerbaijan,2026,Jul,2026-07-01,30.0
+Azerbaijan,2026,Aug,2026-08-01,45.0
 Azores,2015,Jan,2015-01-01,0.0
 Azores,2015,Feb,2015-02-01,0.0
 Azores,2015,Mar,2015-03-01,0.0
@@ -1667,6 +1678,7 @@ Azores,2026,Apr,2026-04-01,0.0
 Azores,2026,May,2026-05-01,0.0
 Azores,2026,Jun,2026-06-01,0.0
 Azores,2026,Jul,2026-07-01,0.0
+Azores,2026,Aug,2026-08-01,0.0
 "Bahama Islands, The",2015,Jan,2015-01-01,
 "Bahama Islands, The",2015,Feb,2015-02-01,10.0
 "Bahama Islands, The",2015,Mar,2015-03-01,10.0
@@ -1806,6 +1818,7 @@ Azores,2026,Jul,2026-07-01,0.0
 "Bahama Islands, The",2026,May,2026-05-01,40.0
 "Bahama Islands, The",2026,Jun,2026-06-01,60.0
 "Bahama Islands, The",2026,Jul,2026-07-01,50.0
+"Bahama Islands, The",2026,Aug,2026-08-01,100.0
 Bahrain,2015,Jan,2015-01-01,
 Bahrain,2015,Feb,2015-02-01,5.0
 Bahrain,2015,Mar,2015-03-01,
@@ -1945,6 +1958,7 @@ Bahrain,2026,Apr,2026-04-01,
 Bahrain,2026,May,2026-05-01,
 Bahrain,2026,Jun,2026-06-01,
 Bahrain,2026,Jul,2026-07-01,5.0
+Bahrain,2026,Aug,2026-08-01,
 Bangladesh,2015,Jan,2015-01-01,110.0
 Bangladesh,2015,Feb,2015-02-01,145.0
 Bangladesh,2015,Mar,2015-03-01,315.0
@@ -2083,7 +2097,8 @@ Bangladesh,2026,Mar,2026-03-01,320.0
 Bangladesh,2026,Apr,2026-04-01,285.0
 Bangladesh,2026,May,2026-05-01,410.0
 Bangladesh,2026,Jun,2026-06-01,380.0
-Bangladesh,2026,Jul,2026-07-01,555.0
+Bangladesh,2026,Jul,2026-07-01,560.0
+Bangladesh,2026,Aug,2026-08-01,610.0
 Barbados,2015,Jan,2015-01-01,
 Barbados,2015,Feb,2015-02-01,10.0
 Barbados,2015,Mar,2015-03-01,10.0
@@ -2223,6 +2238,7 @@ Barbados,2026,Apr,2026-04-01,20.0
 Barbados,2026,May,2026-05-01,25.0
 Barbados,2026,Jun,2026-06-01,45.0
 Barbados,2026,Jul,2026-07-01,20.0
+Barbados,2026,Aug,2026-08-01,35.0
 Belarus,2015,Jan,2015-01-01,10.0
 Belarus,2015,Feb,2015-02-01,15.0
 Belarus,2015,Mar,2015-03-01,10.0
@@ -2362,6 +2378,7 @@ Belarus,2026,Apr,2026-04-01,10.0
 Belarus,2026,May,2026-05-01,10.0
 Belarus,2026,Jun,2026-06-01,10.0
 Belarus,2026,Jul,2026-07-01,20.0
+Belarus,2026,Aug,2026-08-01,15.0
 Belgium,2015,Jan,2015-01-01,25.0
 Belgium,2015,Feb,2015-02-01,15.0
 Belgium,2015,Mar,2015-03-01,20.0
@@ -2501,6 +2518,7 @@ Belgium,2026,Apr,2026-04-01,50.0
 Belgium,2026,May,2026-05-01,25.0
 Belgium,2026,Jun,2026-06-01,30.0
 Belgium,2026,Jul,2026-07-01,55.0
+Belgium,2026,Aug,2026-08-01,45.0
 Belize,2015,Jan,2015-01-01,
 Belize,2015,Feb,2015-02-01,
 Belize,2015,Mar,2015-03-01,
@@ -2640,6 +2658,7 @@ Belize,2026,Apr,2026-04-01,5.0
 Belize,2026,May,2026-05-01,10.0
 Belize,2026,Jun,2026-06-01,5.0
 Belize,2026,Jul,2026-07-01,5.0
+Belize,2026,Aug,2026-08-01,5.0
 "Benin, Republic of",2015,Jan,2015-01-01,10.0
 "Benin, Republic of",2015,Feb,2015-02-01,15.0
 "Benin, Republic of",2015,Mar,2015-03-01,35.0
@@ -2779,6 +2798,7 @@ Belize,2026,Jul,2026-07-01,5.0
 "Benin, Republic of",2026,May,2026-05-01,65.0
 "Benin, Republic of",2026,Jun,2026-06-01,110.0
 "Benin, Republic of",2026,Jul,2026-07-01,115.0
+"Benin, Republic of",2026,Aug,2026-08-01,60.0
 Bermuda,2015,Jan,2015-01-01,0.0
 Bermuda,2015,Feb,2015-02-01,0.0
 Bermuda,2015,Mar,2015-03-01,0.0
@@ -2918,6 +2938,7 @@ Bermuda,2026,Apr,2026-04-01,0.0
 Bermuda,2026,May,2026-05-01,0.0
 Bermuda,2026,Jun,2026-06-01,0.0
 Bermuda,2026,Jul,2026-07-01,0.0
+Bermuda,2026,Aug,2026-08-01,0.0
 Bhutan,2015,Jan,2015-01-01,
 Bhutan,2015,Feb,2015-02-01,10.0
 Bhutan,2015,Mar,2015-03-01,55.0
@@ -3057,6 +3078,7 @@ Bhutan,2026,Apr,2026-04-01,5.0
 Bhutan,2026,May,2026-05-01,15.0
 Bhutan,2026,Jun,2026-06-01,5.0
 Bhutan,2026,Jul,2026-07-01,10.0
+Bhutan,2026,Aug,2026-08-01,10.0
 Bolivia,2015,Jan,2015-01-01,
 Bolivia,2015,Feb,2015-02-01,15.0
 Bolivia,2015,Mar,2015-03-01,5.0
@@ -3196,6 +3218,7 @@ Bolivia,2026,Apr,2026-04-01,30.0
 Bolivia,2026,May,2026-05-01,25.0
 Bolivia,2026,Jun,2026-06-01,15.0
 Bolivia,2026,Jul,2026-07-01,20.0
+Bolivia,2026,Aug,2026-08-01,15.0
 Bosnia-Herzegovina,2015,Jan,2015-01-01,20.0
 Bosnia-Herzegovina,2015,Feb,2015-02-01,10.0
 Bosnia-Herzegovina,2015,Mar,2015-03-01,15.0
@@ -3335,6 +3358,7 @@ Bosnia-Herzegovina,2026,Apr,2026-04-01,
 Bosnia-Herzegovina,2026,May,2026-05-01,
 Bosnia-Herzegovina,2026,Jun,2026-06-01,0.0
 Bosnia-Herzegovina,2026,Jul,2026-07-01,
+Bosnia-Herzegovina,2026,Aug,2026-08-01,0.0
 "Botswana, Republic of",2015,Jan,2015-01-01,15.0
 "Botswana, Republic of",2015,Feb,2015-02-01,5.0
 "Botswana, Republic of",2015,Mar,2015-03-01,10.0
@@ -3474,6 +3498,7 @@ Bosnia-Herzegovina,2026,Jul,2026-07-01,
 "Botswana, Republic of",2026,May,2026-05-01,
 "Botswana, Republic of",2026,Jun,2026-06-01,
 "Botswana, Republic of",2026,Jul,2026-07-01,5.0
+"Botswana, Republic of",2026,Aug,2026-08-01,
 Brazil,2015,Jan,2015-01-01,100.0
 Brazil,2015,Feb,2015-02-01,115.0
 Brazil,2015,Mar,2015-03-01,155.0
@@ -3613,6 +3638,7 @@ Brazil,2026,Apr,2026-04-01,400.0
 Brazil,2026,May,2026-05-01,415.0
 Brazil,2026,Jun,2026-06-01,375.0
 Brazil,2026,Jul,2026-07-01,500.0
+Brazil,2026,Aug,2026-08-01,425.0
 Brunei,2015,Jan,2015-01-01,0.0
 Brunei,2015,Feb,2015-02-01,0.0
 Brunei,2015,Mar,2015-03-01,0.0
@@ -3752,6 +3778,7 @@ Brunei,2026,Apr,2026-04-01,0.0
 Brunei,2026,May,2026-05-01,
 Brunei,2026,Jun,2026-06-01,
 Brunei,2026,Jul,2026-07-01,0.0
+Brunei,2026,Aug,2026-08-01,
 Bulgaria,2015,Jan,2015-01-01,20.0
 Bulgaria,2015,Feb,2015-02-01,10.0
 Bulgaria,2015,Mar,2015-03-01,20.0
@@ -3891,6 +3918,7 @@ Bulgaria,2026,Apr,2026-04-01,
 Bulgaria,2026,May,2026-05-01,
 Bulgaria,2026,Jun,2026-06-01,10.0
 Bulgaria,2026,Jul,2026-07-01,5.0
+Bulgaria,2026,Aug,2026-08-01,10.0
 Burkina-Faso,2015,Jan,2015-01-01,10.0
 Burkina-Faso,2015,Feb,2015-02-01,10.0
 Burkina-Faso,2015,Mar,2015-03-01,15.0
@@ -4030,6 +4058,7 @@ Burkina-Faso,2026,Apr,2026-04-01,60.0
 Burkina-Faso,2026,May,2026-05-01,60.0
 Burkina-Faso,2026,Jun,2026-06-01,25.0
 Burkina-Faso,2026,Jul,2026-07-01,45.0
+Burkina-Faso,2026,Aug,2026-08-01,45.0
 Burundi,2015,Jan,2015-01-01,10.0
 Burundi,2015,Feb,2015-02-01,10.0
 Burundi,2015,Mar,2015-03-01,270.0
@@ -4168,7 +4197,8 @@ Burundi,2026,Mar,2026-03-01,100.0
 Burundi,2026,Apr,2026-04-01,115.0
 Burundi,2026,May,2026-05-01,90.0
 Burundi,2026,Jun,2026-06-01,185.0
-Burundi,2026,Jul,2026-07-01,195.0
+Burundi,2026,Jul,2026-07-01,200.0
+Burundi,2026,Aug,2026-08-01,230.0
 Cambodia,2015,Jan,2015-01-01,10.0
 Cambodia,2015,Feb,2015-02-01,5.0
 Cambodia,2015,Mar,2015-03-01,15.0
@@ -4308,6 +4338,7 @@ Cambodia,2026,Apr,2026-04-01,15.0
 Cambodia,2026,May,2026-05-01,10.0
 Cambodia,2026,Jun,2026-06-01,10.0
 Cambodia,2026,Jul,2026-07-01,10.0
+Cambodia,2026,Aug,2026-08-01,10.0
 "Cameroon, Federal Republic of",2015,Jan,2015-01-01,75.0
 "Cameroon, Federal Republic of",2015,Feb,2015-02-01,85.0
 "Cameroon, Federal Republic of",2015,Mar,2015-03-01,150.0
@@ -4446,7 +4477,8 @@ Cambodia,2026,Jul,2026-07-01,10.0
 "Cameroon, Federal Republic of",2026,Apr,2026-04-01,1400.0
 "Cameroon, Federal Republic of",2026,May,2026-05-01,1530.0
 "Cameroon, Federal Republic of",2026,Jun,2026-06-01,2040.0
-"Cameroon, Federal Republic of",2026,Jul,2026-07-01,2055.0
+"Cameroon, Federal Republic of",2026,Jul,2026-07-01,2070.0
+"Cameroon, Federal Republic of",2026,Aug,2026-08-01,1275.0
 Cape Verde Islands,2015,Jan,2015-01-01,0.0
 Cape Verde Islands,2015,Feb,2015-02-01,0.0
 Cape Verde Islands,2015,Mar,2015-03-01,0.0
@@ -4586,6 +4618,7 @@ Cape Verde Islands,2026,Apr,2026-04-01,0.0
 Cape Verde Islands,2026,May,2026-05-01,0.0
 Cape Verde Islands,2026,Jun,2026-06-01,
 Cape Verde Islands,2026,Jul,2026-07-01,0.0
+Cape Verde Islands,2026,Aug,2026-08-01,0.0
 Central African Republic,2015,Jan,2015-01-01,10.0
 Central African Republic,2015,Feb,2015-02-01,15.0
 Central African Republic,2015,Mar,2015-03-01,
@@ -4725,6 +4758,7 @@ Central African Republic,2026,Apr,2026-04-01,60.0
 Central African Republic,2026,May,2026-05-01,25.0
 Central African Republic,2026,Jun,2026-06-01,40.0
 Central African Republic,2026,Jul,2026-07-01,15.0
+Central African Republic,2026,Aug,2026-08-01,10.0
 "Chad, Republic of",2015,Jan,2015-01-01,
 "Chad, Republic of",2015,Feb,2015-02-01,
 "Chad, Republic of",2015,Mar,2015-03-01,
@@ -4864,6 +4898,7 @@ Central African Republic,2026,Jul,2026-07-01,15.0
 "Chad, Republic of",2026,May,2026-05-01,15.0
 "Chad, Republic of",2026,Jun,2026-06-01,15.0
 "Chad, Republic of",2026,Jul,2026-07-01,15.0
+"Chad, Republic of",2026,Aug,2026-08-01,20.0
 Chile,2015,Jan,2015-01-01,10.0
 Chile,2015,Feb,2015-02-01,5.0
 Chile,2015,Mar,2015-03-01,30.0
@@ -5003,6 +5038,7 @@ Chile,2026,Apr,2026-04-01,60.0
 Chile,2026,May,2026-05-01,80.0
 Chile,2026,Jun,2026-06-01,65.0
 Chile,2026,Jul,2026-07-01,105.0
+Chile,2026,Aug,2026-08-01,140.0
 "China, People's Republic of",2015,Jan,2015-01-01,950.0
 "China, People's Republic of",2015,Feb,2015-02-01,1570.0
 "China, People's Republic of",2015,Mar,2015-03-01,1655.0
@@ -5141,7 +5177,8 @@ Chile,2026,Jul,2026-07-01,105.0
 "China, People's Republic of",2026,Apr,2026-04-01,1500.0
 "China, People's Republic of",2026,May,2026-05-01,1760.0
 "China, People's Republic of",2026,Jun,2026-06-01,1680.0
-"China, People's Republic of",2026,Jul,2026-07-01,2235.0
+"China, People's Republic of",2026,Jul,2026-07-01,2250.0
+"China, People's Republic of",2026,Aug,2026-08-01,2055.0
 Colombia,2015,Jan,2015-01-01,125.0
 Colombia,2015,Feb,2015-02-01,200.0
 Colombia,2015,Mar,2015-03-01,265.0
@@ -5281,6 +5318,7 @@ Colombia,2026,Apr,2026-04-01,550.0
 Colombia,2026,May,2026-05-01,605.0
 Colombia,2026,Jun,2026-06-01,595.0
 Colombia,2026,Jul,2026-07-01,770.0
+Colombia,2026,Aug,2026-08-01,945.0
 Comoros,2015,Jan,2015-01-01,0.0
 Comoros,2015,Feb,2015-02-01,
 Comoros,2015,Mar,2015-03-01,
@@ -5420,6 +5458,7 @@ Comoros,2026,Apr,2026-04-01,0.0
 Comoros,2026,May,2026-05-01,0.0
 Comoros,2026,Jun,2026-06-01,
 Comoros,2026,Jul,2026-07-01,
+Comoros,2026,Aug,2026-08-01,5.0
 "Congo, Democratic Republic of the",2015,Jan,2015-01-01,70.0
 "Congo, Democratic Republic of the",2015,Feb,2015-02-01,105.0
 "Congo, Democratic Republic of the",2015,Mar,2015-03-01,175.0
@@ -5559,6 +5598,7 @@ Comoros,2026,Jul,2026-07-01,
 "Congo, Democratic Republic of the",2026,May,2026-05-01,335.0
 "Congo, Democratic Republic of the",2026,Jun,2026-06-01,210.0
 "Congo, Democratic Republic of the",2026,Jul,2026-07-01,180.0
+"Congo, Democratic Republic of the",2026,Aug,2026-08-01,270.0
 "Congo, People's Republic of the",2015,Jan,2015-01-01,
 "Congo, People's Republic of the",2015,Feb,2015-02-01,
 "Congo, People's Republic of the",2015,Mar,2015-03-01,10.0
@@ -5698,6 +5738,7 @@ Comoros,2026,Jul,2026-07-01,
 "Congo, People's Republic of the",2026,May,2026-05-01,30.0
 "Congo, People's Republic of the",2026,Jun,2026-06-01,20.0
 "Congo, People's Republic of the",2026,Jul,2026-07-01,15.0
+"Congo, People's Republic of the",2026,Aug,2026-08-01,15.0
 Costa Rica,2015,Jan,2015-01-01,10.0
 Costa Rica,2015,Feb,2015-02-01,10.0
 Costa Rica,2015,Mar,2015-03-01,10.0
@@ -5837,6 +5878,7 @@ Costa Rica,2026,Apr,2026-04-01,15.0
 Costa Rica,2026,May,2026-05-01,25.0
 Costa Rica,2026,Jun,2026-06-01,30.0
 Costa Rica,2026,Jul,2026-07-01,20.0
+Costa Rica,2026,Aug,2026-08-01,20.0
 Country not stated,2015,Jan,2015-01-01,0.0
 Country not stated,2015,Feb,2015-02-01,0.0
 Country not stated,2015,Mar,2015-03-01,0.0
@@ -5976,6 +6018,7 @@ Country not stated,2026,Apr,2026-04-01,0.0
 Country not stated,2026,May,2026-05-01,0.0
 Country not stated,2026,Jun,2026-06-01,0.0
 Country not stated,2026,Jul,2026-07-01,0.0
+Country not stated,2026,Aug,2026-08-01,0.0
 Croatia,2015,Jan,2015-01-01,15.0
 Croatia,2015,Feb,2015-02-01,20.0
 Croatia,2015,Mar,2015-03-01,50.0
@@ -6115,6 +6158,7 @@ Croatia,2026,Apr,2026-04-01,5.0
 Croatia,2026,May,2026-05-01,10.0
 Croatia,2026,Jun,2026-06-01,
 Croatia,2026,Jul,2026-07-01,5.0
+Croatia,2026,Aug,2026-08-01,5.0
 Cuba,2015,Jan,2015-01-01,45.0
 Cuba,2015,Feb,2015-02-01,75.0
 Cuba,2015,Mar,2015-03-01,90.0
@@ -6254,6 +6298,7 @@ Cuba,2026,Apr,2026-04-01,75.0
 Cuba,2026,May,2026-05-01,75.0
 Cuba,2026,Jun,2026-06-01,105.0
 Cuba,2026,Jul,2026-07-01,110.0
+Cuba,2026,Aug,2026-08-01,120.0
 Curacao,2015,Jan,2015-01-01,0.0
 Curacao,2015,Feb,2015-02-01,0.0
 Curacao,2015,Mar,2015-03-01,0.0
@@ -6393,6 +6438,7 @@ Curacao,2026,Apr,2026-04-01,0.0
 Curacao,2026,May,2026-05-01,0.0
 Curacao,2026,Jun,2026-06-01,0.0
 Curacao,2026,Jul,2026-07-01,0.0
+Curacao,2026,Aug,2026-08-01,0.0
 Cyprus,2015,Jan,2015-01-01,0.0
 Cyprus,2015,Feb,2015-02-01,
 Cyprus,2015,Mar,2015-03-01,
@@ -6532,6 +6578,7 @@ Cyprus,2026,Apr,2026-04-01,
 Cyprus,2026,May,2026-05-01,0.0
 Cyprus,2026,Jun,2026-06-01,0.0
 Cyprus,2026,Jul,2026-07-01,0.0
+Cyprus,2026,Aug,2026-08-01,
 Czech Republic,2015,Jan,2015-01-01,15.0
 Czech Republic,2015,Feb,2015-02-01,25.0
 Czech Republic,2015,Mar,2015-03-01,30.0
@@ -6671,6 +6718,7 @@ Czech Republic,2026,Apr,2026-04-01,10.0
 Czech Republic,2026,May,2026-05-01,5.0
 Czech Republic,2026,Jun,2026-06-01,5.0
 Czech Republic,2026,Jul,2026-07-01,15.0
+Czech Republic,2026,Aug,2026-08-01,10.0
 Denmark,2015,Jan,2015-01-01,
 Denmark,2015,Feb,2015-02-01,5.0
 Denmark,2015,Mar,2015-03-01,
@@ -6810,6 +6858,7 @@ Denmark,2026,Apr,2026-04-01,5.0
 Denmark,2026,May,2026-05-01,5.0
 Denmark,2026,Jun,2026-06-01,
 Denmark,2026,Jul,2026-07-01,
+Denmark,2026,Aug,2026-08-01,
 "Djibouti, Republic of",2015,Jan,2015-01-01,
 "Djibouti, Republic of",2015,Feb,2015-02-01,5.0
 "Djibouti, Republic of",2015,Mar,2015-03-01,15.0
@@ -6949,6 +6998,7 @@ Denmark,2026,Jul,2026-07-01,
 "Djibouti, Republic of",2026,May,2026-05-01,15.0
 "Djibouti, Republic of",2026,Jun,2026-06-01,45.0
 "Djibouti, Republic of",2026,Jul,2026-07-01,15.0
+"Djibouti, Republic of",2026,Aug,2026-08-01,10.0
 Dominica,2015,Jan,2015-01-01,
 Dominica,2015,Feb,2015-02-01,
 Dominica,2015,Mar,2015-03-01,
@@ -7088,6 +7138,7 @@ Dominica,2026,Apr,2026-04-01,
 Dominica,2026,May,2026-05-01,0.0
 Dominica,2026,Jun,2026-06-01,
 Dominica,2026,Jul,2026-07-01,
+Dominica,2026,Aug,2026-08-01,
 Dominican Republic,2015,Jan,2015-01-01,35.0
 Dominican Republic,2015,Feb,2015-02-01,35.0
 Dominican Republic,2015,Mar,2015-03-01,35.0
@@ -7227,6 +7278,7 @@ Dominican Republic,2026,Apr,2026-04-01,70.0
 Dominican Republic,2026,May,2026-05-01,65.0
 Dominican Republic,2026,Jun,2026-06-01,70.0
 Dominican Republic,2026,Jul,2026-07-01,65.0
+Dominican Republic,2026,Aug,2026-08-01,75.0
 "East Timor, Democratic Republic of",2015,Jan,2015-01-01,0.0
 "East Timor, Democratic Republic of",2015,Feb,2015-02-01,0.0
 "East Timor, Democratic Republic of",2015,Mar,2015-03-01,0.0
@@ -7366,6 +7418,7 @@ Dominican Republic,2026,Jul,2026-07-01,65.0
 "East Timor, Democratic Republic of",2026,May,2026-05-01,0.0
 "East Timor, Democratic Republic of",2026,Jun,2026-06-01,0.0
 "East Timor, Democratic Republic of",2026,Jul,2026-07-01,
+"East Timor, Democratic Republic of",2026,Aug,2026-08-01,0.0
 Ecuador,2015,Jan,2015-01-01,15.0
 Ecuador,2015,Feb,2015-02-01,10.0
 Ecuador,2015,Mar,2015-03-01,15.0
@@ -7505,6 +7558,7 @@ Ecuador,2026,Apr,2026-04-01,65.0
 Ecuador,2026,May,2026-05-01,90.0
 Ecuador,2026,Jun,2026-06-01,60.0
 Ecuador,2026,Jul,2026-07-01,85.0
+Ecuador,2026,Aug,2026-08-01,100.0
 Egypt,2015,Jan,2015-01-01,175.0
 Egypt,2015,Feb,2015-02-01,165.0
 Egypt,2015,Mar,2015-03-01,245.0
@@ -7643,7 +7697,8 @@ Egypt,2026,Mar,2026-03-01,135.0
 Egypt,2026,Apr,2026-04-01,130.0
 Egypt,2026,May,2026-05-01,195.0
 Egypt,2026,Jun,2026-06-01,145.0
-Egypt,2026,Jul,2026-07-01,235.0
+Egypt,2026,Jul,2026-07-01,240.0
+Egypt,2026,Aug,2026-08-01,235.0
 El Salvador,2015,Jan,2015-01-01,30.0
 El Salvador,2015,Feb,2015-02-01,25.0
 El Salvador,2015,Mar,2015-03-01,55.0
@@ -7783,6 +7838,7 @@ El Salvador,2026,Apr,2026-04-01,40.0
 El Salvador,2026,May,2026-05-01,40.0
 El Salvador,2026,Jun,2026-06-01,45.0
 El Salvador,2026,Jul,2026-07-01,40.0
+El Salvador,2026,Aug,2026-08-01,70.0
 "Equatorial Guinea, Republic of",2015,Jan,2015-01-01,0.0
 "Equatorial Guinea, Republic of",2015,Feb,2015-02-01,0.0
 "Equatorial Guinea, Republic of",2015,Mar,2015-03-01,0.0
@@ -7922,6 +7978,7 @@ El Salvador,2026,Jul,2026-07-01,40.0
 "Equatorial Guinea, Republic of",2026,May,2026-05-01,
 "Equatorial Guinea, Republic of",2026,Jun,2026-06-01,0.0
 "Equatorial Guinea, Republic of",2026,Jul,2026-07-01,0.0
+"Equatorial Guinea, Republic of",2026,Aug,2026-08-01,0.0
 Eritrea,2015,Jan,2015-01-01,115.0
 Eritrea,2015,Feb,2015-02-01,170.0
 Eritrea,2015,Mar,2015-03-01,250.0
@@ -8061,6 +8118,7 @@ Eritrea,2026,Apr,2026-04-01,740.0
 Eritrea,2026,May,2026-05-01,675.0
 Eritrea,2026,Jun,2026-06-01,490.0
 Eritrea,2026,Jul,2026-07-01,605.0
+Eritrea,2026,Aug,2026-08-01,495.0
 Estonia,2015,Jan,2015-01-01,
 Estonia,2015,Feb,2015-02-01,0.0
 Estonia,2015,Mar,2015-03-01,10.0
@@ -8200,6 +8258,7 @@ Estonia,2026,Apr,2026-04-01,0.0
 Estonia,2026,May,2026-05-01,0.0
 Estonia,2026,Jun,2026-06-01,0.0
 Estonia,2026,Jul,2026-07-01,
+Estonia,2026,Aug,2026-08-01,
 Ethiopia,2015,Jan,2015-01-01,65.0
 Ethiopia,2015,Feb,2015-02-01,85.0
 Ethiopia,2015,Mar,2015-03-01,110.0
@@ -8339,6 +8398,7 @@ Ethiopia,2026,Apr,2026-04-01,270.0
 Ethiopia,2026,May,2026-05-01,400.0
 Ethiopia,2026,Jun,2026-06-01,415.0
 Ethiopia,2026,Jul,2026-07-01,480.0
+Ethiopia,2026,Aug,2026-08-01,540.0
 Fiji,2015,Jan,2015-01-01,10.0
 Fiji,2015,Feb,2015-02-01,25.0
 Fiji,2015,Mar,2015-03-01,15.0
@@ -8478,6 +8538,7 @@ Fiji,2026,Apr,2026-04-01,
 Fiji,2026,May,2026-05-01,5.0
 Fiji,2026,Jun,2026-06-01,
 Fiji,2026,Jul,2026-07-01,5.0
+Fiji,2026,Aug,2026-08-01,
 Finland,2015,Jan,2015-01-01,5.0
 Finland,2015,Feb,2015-02-01,
 Finland,2015,Mar,2015-03-01,
@@ -8617,6 +8678,7 @@ Finland,2026,Apr,2026-04-01,5.0
 Finland,2026,May,2026-05-01,5.0
 Finland,2026,Jun,2026-06-01,10.0
 Finland,2026,Jul,2026-07-01,
+Finland,2026,Aug,2026-08-01,5.0
 France,2015,Jan,2015-01-01,300.0
 France,2015,Feb,2015-02-01,315.0
 France,2015,Mar,2015-03-01,515.0
@@ -8756,6 +8818,7 @@ France,2026,Apr,2026-04-01,685.0
 France,2026,May,2026-05-01,530.0
 France,2026,Jun,2026-06-01,400.0
 France,2026,Jul,2026-07-01,440.0
+France,2026,Aug,2026-08-01,480.0
 French Polynesia,2015,Jan,2015-01-01,0.0
 French Polynesia,2015,Feb,2015-02-01,0.0
 French Polynesia,2015,Mar,2015-03-01,0.0
@@ -8895,6 +8958,7 @@ French Polynesia,2026,Apr,2026-04-01,0.0
 French Polynesia,2026,May,2026-05-01,0.0
 French Polynesia,2026,Jun,2026-06-01,0.0
 French Polynesia,2026,Jul,2026-07-01,0.0
+French Polynesia,2026,Aug,2026-08-01,0.0
 Gabon Republic,2015,Jan,2015-01-01,
 Gabon Republic,2015,Feb,2015-02-01,0.0
 Gabon Republic,2015,Mar,2015-03-01,5.0
@@ -9034,6 +9098,7 @@ Gabon Republic,2026,Apr,2026-04-01,
 Gabon Republic,2026,May,2026-05-01,10.0
 Gabon Republic,2026,Jun,2026-06-01,0.0
 Gabon Republic,2026,Jul,2026-07-01,
+Gabon Republic,2026,Aug,2026-08-01,5.0
 Gambia,2015,Jan,2015-01-01,
 Gambia,2015,Feb,2015-02-01,
 Gambia,2015,Mar,2015-03-01,
@@ -9173,6 +9238,7 @@ Gambia,2026,Apr,2026-04-01,5.0
 Gambia,2026,May,2026-05-01,15.0
 Gambia,2026,Jun,2026-06-01,15.0
 Gambia,2026,Jul,2026-07-01,25.0
+Gambia,2026,Aug,2026-08-01,20.0
 Georgia,2015,Jan,2015-01-01,10.0
 Georgia,2015,Feb,2015-02-01,
 Georgia,2015,Mar,2015-03-01,
@@ -9312,6 +9378,7 @@ Georgia,2026,Apr,2026-04-01,25.0
 Georgia,2026,May,2026-05-01,20.0
 Georgia,2026,Jun,2026-06-01,15.0
 Georgia,2026,Jul,2026-07-01,25.0
+Georgia,2026,Aug,2026-08-01,55.0
 Germany,2015,Jan,2015-01-01,80.0
 Germany,2015,Feb,2015-02-01,65.0
 Germany,2015,Mar,2015-03-01,85.0
@@ -9451,6 +9518,7 @@ Germany,2026,Apr,2026-04-01,40.0
 Germany,2026,May,2026-05-01,60.0
 Germany,2026,Jun,2026-06-01,40.0
 Germany,2026,Jul,2026-07-01,75.0
+Germany,2026,Aug,2026-08-01,70.0
 Ghana,2015,Jan,2015-01-01,25.0
 Ghana,2015,Feb,2015-02-01,45.0
 Ghana,2015,Mar,2015-03-01,40.0
@@ -9590,6 +9658,7 @@ Ghana,2026,Apr,2026-04-01,225.0
 Ghana,2026,May,2026-05-01,250.0
 Ghana,2026,Jun,2026-06-01,290.0
 Ghana,2026,Jul,2026-07-01,310.0
+Ghana,2026,Aug,2026-08-01,390.0
 Greece,2015,Jan,2015-01-01,10.0
 Greece,2015,Feb,2015-02-01,30.0
 Greece,2015,Mar,2015-03-01,55.0
@@ -9729,6 +9798,7 @@ Greece,2026,Apr,2026-04-01,15.0
 Greece,2026,May,2026-05-01,15.0
 Greece,2026,Jun,2026-06-01,10.0
 Greece,2026,Jul,2026-07-01,10.0
+Greece,2026,Aug,2026-08-01,10.0
 Grenada,2015,Jan,2015-01-01,5.0
 Grenada,2015,Feb,2015-02-01,10.0
 Grenada,2015,Mar,2015-03-01,5.0
@@ -9868,6 +9938,7 @@ Grenada,2026,Apr,2026-04-01,5.0
 Grenada,2026,May,2026-05-01,10.0
 Grenada,2026,Jun,2026-06-01,5.0
 Grenada,2026,Jul,2026-07-01,5.0
+Grenada,2026,Aug,2026-08-01,10.0
 Guadeloupe,2015,Jan,2015-01-01,0.0
 Guadeloupe,2015,Feb,2015-02-01,0.0
 Guadeloupe,2015,Mar,2015-03-01,0.0
@@ -10007,6 +10078,7 @@ Guadeloupe,2026,Apr,2026-04-01,0.0
 Guadeloupe,2026,May,2026-05-01,0.0
 Guadeloupe,2026,Jun,2026-06-01,0.0
 Guadeloupe,2026,Jul,2026-07-01,0.0
+Guadeloupe,2026,Aug,2026-08-01,0.0
 Guatemala,2015,Jan,2015-01-01,10.0
 Guatemala,2015,Feb,2015-02-01,5.0
 Guatemala,2015,Mar,2015-03-01,30.0
@@ -10146,6 +10218,7 @@ Guatemala,2026,Apr,2026-04-01,20.0
 Guatemala,2026,May,2026-05-01,35.0
 Guatemala,2026,Jun,2026-06-01,30.0
 Guatemala,2026,Jul,2026-07-01,25.0
+Guatemala,2026,Aug,2026-08-01,30.0
 "Guinea, Republic of",2015,Jan,2015-01-01,20.0
 "Guinea, Republic of",2015,Feb,2015-02-01,15.0
 "Guinea, Republic of",2015,Mar,2015-03-01,20.0
@@ -10285,6 +10358,7 @@ Guatemala,2026,Jul,2026-07-01,25.0
 "Guinea, Republic of",2026,May,2026-05-01,75.0
 "Guinea, Republic of",2026,Jun,2026-06-01,60.0
 "Guinea, Republic of",2026,Jul,2026-07-01,65.0
+"Guinea, Republic of",2026,Aug,2026-08-01,70.0
 Guinea-Bissau,2015,Jan,2015-01-01,0.0
 Guinea-Bissau,2015,Feb,2015-02-01,0.0
 Guinea-Bissau,2015,Mar,2015-03-01,0.0
@@ -10424,6 +10498,7 @@ Guinea-Bissau,2026,Apr,2026-04-01,0.0
 Guinea-Bissau,2026,May,2026-05-01,
 Guinea-Bissau,2026,Jun,2026-06-01,0.0
 Guinea-Bissau,2026,Jul,2026-07-01,
+Guinea-Bissau,2026,Aug,2026-08-01,0.0
 Guyana,2015,Jan,2015-01-01,30.0
 Guyana,2015,Feb,2015-02-01,35.0
 Guyana,2015,Mar,2015-03-01,55.0
@@ -10563,6 +10638,7 @@ Guyana,2026,Apr,2026-04-01,30.0
 Guyana,2026,May,2026-05-01,25.0
 Guyana,2026,Jun,2026-06-01,30.0
 Guyana,2026,Jul,2026-07-01,20.0
+Guyana,2026,Aug,2026-08-01,20.0
 Haiti,2015,Jan,2015-01-01,105.0
 Haiti,2015,Feb,2015-02-01,130.0
 Haiti,2015,Mar,2015-03-01,185.0
@@ -10702,6 +10778,7 @@ Haiti,2026,Apr,2026-04-01,280.0
 Haiti,2026,May,2026-05-01,340.0
 Haiti,2026,Jun,2026-06-01,290.0
 Haiti,2026,Jul,2026-07-01,325.0
+Haiti,2026,Aug,2026-08-01,255.0
 Holy See,2015,Jan,2015-01-01,0.0
 Holy See,2015,Feb,2015-02-01,0.0
 Holy See,2015,Mar,2015-03-01,0.0
@@ -10841,6 +10918,7 @@ Holy See,2026,Apr,2026-04-01,0.0
 Holy See,2026,May,2026-05-01,0.0
 Holy See,2026,Jun,2026-06-01,0.0
 Holy See,2026,Jul,2026-07-01,0.0
+Holy See,2026,Aug,2026-08-01,0.0
 Honduras,2015,Jan,2015-01-01,5.0
 Honduras,2015,Feb,2015-02-01,20.0
 Honduras,2015,Mar,2015-03-01,35.0
@@ -10980,6 +11058,7 @@ Honduras,2026,Apr,2026-04-01,30.0
 Honduras,2026,May,2026-05-01,30.0
 Honduras,2026,Jun,2026-06-01,40.0
 Honduras,2026,Jul,2026-07-01,45.0
+Honduras,2026,Aug,2026-08-01,60.0
 Hong Kong SAR,2015,Jan,2015-01-01,60.0
 Hong Kong SAR,2015,Feb,2015-02-01,65.0
 Hong Kong SAR,2015,Mar,2015-03-01,75.0
@@ -11119,6 +11198,7 @@ Hong Kong SAR,2026,Apr,2026-04-01,25.0
 Hong Kong SAR,2026,May,2026-05-01,20.0
 Hong Kong SAR,2026,Jun,2026-06-01,25.0
 Hong Kong SAR,2026,Jul,2026-07-01,30.0
+Hong Kong SAR,2026,Aug,2026-08-01,35.0
 Hungary,2015,Jan,2015-01-01,40.0
 Hungary,2015,Feb,2015-02-01,35.0
 Hungary,2015,Mar,2015-03-01,75.0
@@ -11258,6 +11338,7 @@ Hungary,2026,Apr,2026-04-01,15.0
 Hungary,2026,May,2026-05-01,30.0
 Hungary,2026,Jun,2026-06-01,20.0
 Hungary,2026,Jul,2026-07-01,15.0
+Hungary,2026,Aug,2026-08-01,30.0
 Iceland,2015,Jan,2015-01-01,0.0
 Iceland,2015,Feb,2015-02-01,
 Iceland,2015,Mar,2015-03-01,
@@ -11397,6 +11478,7 @@ Iceland,2026,Apr,2026-04-01,0.0
 Iceland,2026,May,2026-05-01,0.0
 Iceland,2026,Jun,2026-06-01,0.0
 Iceland,2026,Jul,2026-07-01,
+Iceland,2026,Aug,2026-08-01,0.0
 India,2015,Jan,2015-01-01,1560.0
 India,2015,Feb,2015-02-01,1980.0
 India,2015,Mar,2015-03-01,2630.0
@@ -11534,8 +11616,9 @@ India,2026,Feb,2026-02-01,7455.0
 India,2026,Mar,2026-03-01,7660.0
 India,2026,Apr,2026-04-01,7280.0
 India,2026,May,2026-05-01,8125.0
-India,2026,Jun,2026-06-01,7390.0
-India,2026,Jul,2026-07-01,8925.0
+India,2026,Jun,2026-06-01,7395.0
+India,2026,Jul,2026-07-01,8955.0
+India,2026,Aug,2026-08-01,8115.0
 "Indonesia, Republic of",2015,Jan,2015-01-01,20.0
 "Indonesia, Republic of",2015,Feb,2015-02-01,10.0
 "Indonesia, Republic of",2015,Mar,2015-03-01,10.0
@@ -11675,6 +11758,7 @@ India,2026,Jul,2026-07-01,8925.0
 "Indonesia, Republic of",2026,May,2026-05-01,45.0
 "Indonesia, Republic of",2026,Jun,2026-06-01,40.0
 "Indonesia, Republic of",2026,Jul,2026-07-01,50.0
+"Indonesia, Republic of",2026,Aug,2026-08-01,35.0
 Iran,2015,Jan,2015-01-01,1060.0
 Iran,2015,Feb,2015-02-01,1050.0
 Iran,2015,Mar,2015-03-01,1730.0
@@ -11813,7 +11897,8 @@ Iran,2026,Mar,2026-03-01,520.0
 Iran,2026,Apr,2026-04-01,550.0
 Iran,2026,May,2026-05-01,790.0
 Iran,2026,Jun,2026-06-01,1205.0
-Iran,2026,Jul,2026-07-01,1305.0
+Iran,2026,Jul,2026-07-01,1315.0
+Iran,2026,Aug,2026-08-01,1745.0
 Iraq,2015,Jan,2015-01-01,70.0
 Iraq,2015,Feb,2015-02-01,190.0
 Iraq,2015,Mar,2015-03-01,190.0
@@ -11953,6 +12038,7 @@ Iraq,2026,Apr,2026-04-01,90.0
 Iraq,2026,May,2026-05-01,210.0
 Iraq,2026,Jun,2026-06-01,220.0
 Iraq,2026,Jul,2026-07-01,225.0
+Iraq,2026,Aug,2026-08-01,275.0
 "Ireland, Republic of",2015,Jan,2015-01-01,100.0
 "Ireland, Republic of",2015,Feb,2015-02-01,85.0
 "Ireland, Republic of",2015,Mar,2015-03-01,125.0
@@ -12092,6 +12178,7 @@ Iraq,2026,Jul,2026-07-01,225.0
 "Ireland, Republic of",2026,May,2026-05-01,50.0
 "Ireland, Republic of",2026,Jun,2026-06-01,60.0
 "Ireland, Republic of",2026,Jul,2026-07-01,100.0
+"Ireland, Republic of",2026,Aug,2026-08-01,90.0
 Israel,2015,Jan,2015-01-01,45.0
 Israel,2015,Feb,2015-02-01,115.0
 Israel,2015,Mar,2015-03-01,145.0
@@ -12231,6 +12318,7 @@ Israel,2026,Apr,2026-04-01,10.0
 Israel,2026,May,2026-05-01,45.0
 Israel,2026,Jun,2026-06-01,25.0
 Israel,2026,Jul,2026-07-01,35.0
+Israel,2026,Aug,2026-08-01,45.0
 Italy,2015,Jan,2015-01-01,45.0
 Italy,2015,Feb,2015-02-01,35.0
 Italy,2015,Mar,2015-03-01,60.0
@@ -12370,6 +12458,7 @@ Italy,2026,Apr,2026-04-01,60.0
 Italy,2026,May,2026-05-01,45.0
 Italy,2026,Jun,2026-06-01,50.0
 Italy,2026,Jul,2026-07-01,65.0
+Italy,2026,Aug,2026-08-01,50.0
 "Ivory Coast, Republic of",2015,Jan,2015-01-01,70.0
 "Ivory Coast, Republic of",2015,Feb,2015-02-01,55.0
 "Ivory Coast, Republic of",2015,Mar,2015-03-01,70.0
@@ -12509,6 +12598,7 @@ Italy,2026,Jul,2026-07-01,65.0
 "Ivory Coast, Republic of",2026,May,2026-05-01,260.0
 "Ivory Coast, Republic of",2026,Jun,2026-06-01,235.0
 "Ivory Coast, Republic of",2026,Jul,2026-07-01,245.0
+"Ivory Coast, Republic of",2026,Aug,2026-08-01,200.0
 Jamaica,2015,Jan,2015-01-01,180.0
 Jamaica,2015,Feb,2015-02-01,175.0
 Jamaica,2015,Mar,2015-03-01,280.0
@@ -12647,7 +12737,8 @@ Jamaica,2026,Mar,2026-03-01,235.0
 Jamaica,2026,Apr,2026-04-01,305.0
 Jamaica,2026,May,2026-05-01,285.0
 Jamaica,2026,Jun,2026-06-01,300.0
-Jamaica,2026,Jul,2026-07-01,280.0
+Jamaica,2026,Jul,2026-07-01,285.0
+Jamaica,2026,Aug,2026-08-01,330.0
 Japan,2015,Jan,2015-01-01,55.0
 Japan,2015,Feb,2015-02-01,65.0
 Japan,2015,Mar,2015-03-01,75.0
@@ -12787,6 +12878,7 @@ Japan,2026,Apr,2026-04-01,55.0
 Japan,2026,May,2026-05-01,40.0
 Japan,2026,Jun,2026-06-01,40.0
 Japan,2026,Jul,2026-07-01,70.0
+Japan,2026,Aug,2026-08-01,50.0
 Jordan,2015,Jan,2015-01-01,85.0
 Jordan,2015,Feb,2015-02-01,65.0
 Jordan,2015,Mar,2015-03-01,70.0
@@ -12926,6 +13018,7 @@ Jordan,2026,Apr,2026-04-01,90.0
 Jordan,2026,May,2026-05-01,90.0
 Jordan,2026,Jun,2026-06-01,150.0
 Jordan,2026,Jul,2026-07-01,175.0
+Jordan,2026,Aug,2026-08-01,230.0
 Kazakhstan,2015,Jan,2015-01-01,20.0
 Kazakhstan,2015,Feb,2015-02-01,15.0
 Kazakhstan,2015,Mar,2015-03-01,15.0
@@ -13065,6 +13158,7 @@ Kazakhstan,2026,Apr,2026-04-01,25.0
 Kazakhstan,2026,May,2026-05-01,15.0
 Kazakhstan,2026,Jun,2026-06-01,20.0
 Kazakhstan,2026,Jul,2026-07-01,25.0
+Kazakhstan,2026,Aug,2026-08-01,20.0
 Kenya,2015,Jan,2015-01-01,15.0
 Kenya,2015,Feb,2015-02-01,20.0
 Kenya,2015,Mar,2015-03-01,30.0
@@ -13204,6 +13298,7 @@ Kenya,2026,Apr,2026-04-01,115.0
 Kenya,2026,May,2026-05-01,245.0
 Kenya,2026,Jun,2026-06-01,250.0
 Kenya,2026,Jul,2026-07-01,165.0
+Kenya,2026,Aug,2026-08-01,245.0
 Kiribati,2015,Jan,2015-01-01,0.0
 Kiribati,2015,Feb,2015-02-01,0.0
 Kiribati,2015,Mar,2015-03-01,0.0
@@ -13343,6 +13438,7 @@ Kiribati,2026,Apr,2026-04-01,0.0
 Kiribati,2026,May,2026-05-01,0.0
 Kiribati,2026,Jun,2026-06-01,0.0
 Kiribati,2026,Jul,2026-07-01,0.0
+Kiribati,2026,Aug,2026-08-01,0.0
 "Korea, People's Democratic Republic of",2015,Jan,2015-01-01,0.0
 "Korea, People's Democratic Republic of",2015,Feb,2015-02-01,0.0
 "Korea, People's Democratic Republic of",2015,Mar,2015-03-01,0.0
@@ -13482,6 +13578,7 @@ Kiribati,2026,Jul,2026-07-01,0.0
 "Korea, People's Democratic Republic of",2026,May,2026-05-01,
 "Korea, People's Democratic Republic of",2026,Jun,2026-06-01,0.0
 "Korea, People's Democratic Republic of",2026,Jul,2026-07-01,0.0
+"Korea, People's Democratic Republic of",2026,Aug,2026-08-01,0.0
 "Korea, Republic of",2015,Jan,2015-01-01,175.0
 "Korea, Republic of",2015,Feb,2015-02-01,235.0
 "Korea, Republic of",2015,Mar,2015-03-01,395.0
@@ -13621,6 +13718,7 @@ Kiribati,2026,Jul,2026-07-01,0.0
 "Korea, Republic of",2026,May,2026-05-01,165.0
 "Korea, Republic of",2026,Jun,2026-06-01,180.0
 "Korea, Republic of",2026,Jul,2026-07-01,185.0
+"Korea, Republic of",2026,Aug,2026-08-01,150.0
 "Kosovo, Republic of",2015,Jan,2015-01-01,25.0
 "Kosovo, Republic of",2015,Feb,2015-02-01,25.0
 "Kosovo, Republic of",2015,Mar,2015-03-01,15.0
@@ -13760,6 +13858,7 @@ Kiribati,2026,Jul,2026-07-01,0.0
 "Kosovo, Republic of",2026,May,2026-05-01,10.0
 "Kosovo, Republic of",2026,Jun,2026-06-01,5.0
 "Kosovo, Republic of",2026,Jul,2026-07-01,10.0
+"Kosovo, Republic of",2026,Aug,2026-08-01,10.0
 Kuwait,2015,Jan,2015-01-01,
 Kuwait,2015,Feb,2015-02-01,0.0
 Kuwait,2015,Mar,2015-03-01,
@@ -13899,6 +13998,7 @@ Kuwait,2026,Apr,2026-04-01,0.0
 Kuwait,2026,May,2026-05-01,
 Kuwait,2026,Jun,2026-06-01,0.0
 Kuwait,2026,Jul,2026-07-01,
+Kuwait,2026,Aug,2026-08-01,5.0
 Kyrgyzstan,2015,Jan,2015-01-01,
 Kyrgyzstan,2015,Feb,2015-02-01,
 Kyrgyzstan,2015,Mar,2015-03-01,15.0
@@ -14038,6 +14138,7 @@ Kyrgyzstan,2026,Apr,2026-04-01,10.0
 Kyrgyzstan,2026,May,2026-05-01,
 Kyrgyzstan,2026,Jun,2026-06-01,5.0
 Kyrgyzstan,2026,Jul,2026-07-01,
+Kyrgyzstan,2026,Aug,2026-08-01,
 Laos,2015,Jan,2015-01-01,
 Laos,2015,Feb,2015-02-01,
 Laos,2015,Mar,2015-03-01,5.0
@@ -14177,6 +14278,7 @@ Laos,2026,Apr,2026-04-01,0.0
 Laos,2026,May,2026-05-01,
 Laos,2026,Jun,2026-06-01,0.0
 Laos,2026,Jul,2026-07-01,
+Laos,2026,Aug,2026-08-01,
 Latvia,2015,Jan,2015-01-01,15.0
 Latvia,2015,Feb,2015-02-01,5.0
 Latvia,2015,Mar,2015-03-01,5.0
@@ -14316,6 +14418,7 @@ Latvia,2026,Apr,2026-04-01,0.0
 Latvia,2026,May,2026-05-01,
 Latvia,2026,Jun,2026-06-01,0.0
 Latvia,2026,Jul,2026-07-01,
+Latvia,2026,Aug,2026-08-01,
 Lebanon,2015,Jan,2015-01-01,105.0
 Lebanon,2015,Feb,2015-02-01,85.0
 Lebanon,2015,Mar,2015-03-01,165.0
@@ -14455,6 +14558,7 @@ Lebanon,2026,Apr,2026-04-01,170.0
 Lebanon,2026,May,2026-05-01,160.0
 Lebanon,2026,Jun,2026-06-01,190.0
 Lebanon,2026,Jul,2026-07-01,230.0
+Lebanon,2026,Aug,2026-08-01,185.0
 Lesotho,2015,Jan,2015-01-01,0.0
 Lesotho,2015,Feb,2015-02-01,0.0
 Lesotho,2015,Mar,2015-03-01,0.0
@@ -14594,6 +14698,7 @@ Lesotho,2026,Apr,2026-04-01,0.0
 Lesotho,2026,May,2026-05-01,0.0
 Lesotho,2026,Jun,2026-06-01,0.0
 Lesotho,2026,Jul,2026-07-01,
+Lesotho,2026,Aug,2026-08-01,
 Liberia,2015,Jan,2015-01-01,
 Liberia,2015,Feb,2015-02-01,5.0
 Liberia,2015,Mar,2015-03-01,30.0
@@ -14733,6 +14838,7 @@ Liberia,2026,Apr,2026-04-01,10.0
 Liberia,2026,May,2026-05-01,10.0
 Liberia,2026,Jun,2026-06-01,10.0
 Liberia,2026,Jul,2026-07-01,10.0
+Liberia,2026,Aug,2026-08-01,15.0
 Libya,2015,Jan,2015-01-01,10.0
 Libya,2015,Feb,2015-02-01,10.0
 Libya,2015,Mar,2015-03-01,15.0
@@ -14872,6 +14978,7 @@ Libya,2026,Apr,2026-04-01,15.0
 Libya,2026,May,2026-05-01,20.0
 Libya,2026,Jun,2026-06-01,25.0
 Libya,2026,Jul,2026-07-01,30.0
+Libya,2026,Aug,2026-08-01,35.0
 Liechtenstein,2015,Jan,2015-01-01,0.0
 Liechtenstein,2015,Feb,2015-02-01,0.0
 Liechtenstein,2015,Mar,2015-03-01,0.0
@@ -15011,6 +15118,7 @@ Liechtenstein,2026,Apr,2026-04-01,0.0
 Liechtenstein,2026,May,2026-05-01,0.0
 Liechtenstein,2026,Jun,2026-06-01,0.0
 Liechtenstein,2026,Jul,2026-07-01,0.0
+Liechtenstein,2026,Aug,2026-08-01,0.0
 Lithuania,2015,Jan,2015-01-01,
 Lithuania,2015,Feb,2015-02-01,5.0
 Lithuania,2015,Mar,2015-03-01,10.0
@@ -15150,6 +15258,7 @@ Lithuania,2026,Apr,2026-04-01,
 Lithuania,2026,May,2026-05-01,
 Lithuania,2026,Jun,2026-06-01,
 Lithuania,2026,Jul,2026-07-01,
+Lithuania,2026,Aug,2026-08-01,
 Luxembourg,2015,Jan,2015-01-01,
 Luxembourg,2015,Feb,2015-02-01,0.0
 Luxembourg,2015,Mar,2015-03-01,0.0
@@ -15289,6 +15398,7 @@ Luxembourg,2026,Apr,2026-04-01,0.0
 Luxembourg,2026,May,2026-05-01,
 Luxembourg,2026,Jun,2026-06-01,0.0
 Luxembourg,2026,Jul,2026-07-01,
+Luxembourg,2026,Aug,2026-08-01,0.0
 Macau SAR,2015,Jan,2015-01-01,0.0
 Macau SAR,2015,Feb,2015-02-01,
 Macau SAR,2015,Mar,2015-03-01,0.0
@@ -15428,6 +15538,7 @@ Macau SAR,2026,Apr,2026-04-01,
 Macau SAR,2026,May,2026-05-01,0.0
 Macau SAR,2026,Jun,2026-06-01,
 Macau SAR,2026,Jul,2026-07-01,0.0
+Macau SAR,2026,Aug,2026-08-01,0.0
 Macedonia,2015,Jan,2015-01-01,10.0
 Macedonia,2015,Feb,2015-02-01,15.0
 Macedonia,2015,Mar,2015-03-01,20.0
@@ -15567,6 +15678,7 @@ Macedonia,2026,Apr,2026-04-01,5.0
 Macedonia,2026,May,2026-05-01,
 Macedonia,2026,Jun,2026-06-01,5.0
 Macedonia,2026,Jul,2026-07-01,10.0
+Macedonia,2026,Aug,2026-08-01,
 Madagascar,2015,Jan,2015-01-01,5.0
 Madagascar,2015,Feb,2015-02-01,
 Madagascar,2015,Mar,2015-03-01,5.0
@@ -15706,6 +15818,7 @@ Madagascar,2026,Apr,2026-04-01,100.0
 Madagascar,2026,May,2026-05-01,55.0
 Madagascar,2026,Jun,2026-06-01,40.0
 Madagascar,2026,Jul,2026-07-01,70.0
+Madagascar,2026,Aug,2026-08-01,50.0
 Malawi,2015,Jan,2015-01-01,
 Malawi,2015,Feb,2015-02-01,0.0
 Malawi,2015,Mar,2015-03-01,
@@ -15845,6 +15958,7 @@ Malawi,2026,Apr,2026-04-01,
 Malawi,2026,May,2026-05-01,5.0
 Malawi,2026,Jun,2026-06-01,5.0
 Malawi,2026,Jul,2026-07-01,15.0
+Malawi,2026,Aug,2026-08-01,
 Malaysia,2015,Jan,2015-01-01,15.0
 Malaysia,2015,Feb,2015-02-01,25.0
 Malaysia,2015,Mar,2015-03-01,20.0
@@ -15984,6 +16098,7 @@ Malaysia,2026,Apr,2026-04-01,25.0
 Malaysia,2026,May,2026-05-01,20.0
 Malaysia,2026,Jun,2026-06-01,15.0
 Malaysia,2026,Jul,2026-07-01,25.0
+Malaysia,2026,Aug,2026-08-01,25.0
 "Maldives, Republic of",2015,Jan,2015-01-01,0.0
 "Maldives, Republic of",2015,Feb,2015-02-01,
 "Maldives, Republic of",2015,Mar,2015-03-01,0.0
@@ -16123,6 +16238,7 @@ Malaysia,2026,Jul,2026-07-01,25.0
 "Maldives, Republic of",2026,May,2026-05-01,
 "Maldives, Republic of",2026,Jun,2026-06-01,0.0
 "Maldives, Republic of",2026,Jul,2026-07-01,0.0
+"Maldives, Republic of",2026,Aug,2026-08-01,0.0
 "Mali, Republic of",2015,Jan,2015-01-01,
 "Mali, Republic of",2015,Feb,2015-02-01,10.0
 "Mali, Republic of",2015,Mar,2015-03-01,10.0
@@ -16262,6 +16378,7 @@ Malaysia,2026,Jul,2026-07-01,25.0
 "Mali, Republic of",2026,May,2026-05-01,45.0
 "Mali, Republic of",2026,Jun,2026-06-01,25.0
 "Mali, Republic of",2026,Jul,2026-07-01,35.0
+"Mali, Republic of",2026,Aug,2026-08-01,30.0
 Malta,2015,Jan,2015-01-01,0.0
 Malta,2015,Feb,2015-02-01,0.0
 Malta,2015,Mar,2015-03-01,0.0
@@ -16401,6 +16518,7 @@ Malta,2026,Apr,2026-04-01,
 Malta,2026,May,2026-05-01,0.0
 Malta,2026,Jun,2026-06-01,0.0
 Malta,2026,Jul,2026-07-01,0.0
+Malta,2026,Aug,2026-08-01,0.0
 "Marshall Islands, Republic of the",2015,Jan,2015-01-01,0.0
 "Marshall Islands, Republic of the",2015,Feb,2015-02-01,0.0
 "Marshall Islands, Republic of the",2015,Mar,2015-03-01,0.0
@@ -16540,6 +16658,7 @@ Malta,2026,Jul,2026-07-01,0.0
 "Marshall Islands, Republic of the",2026,May,2026-05-01,0.0
 "Marshall Islands, Republic of the",2026,Jun,2026-06-01,0.0
 "Marshall Islands, Republic of the",2026,Jul,2026-07-01,0.0
+"Marshall Islands, Republic of the",2026,Aug,2026-08-01,0.0
 Mauritania,2015,Jan,2015-01-01,0.0
 Mauritania,2015,Feb,2015-02-01,5.0
 Mauritania,2015,Mar,2015-03-01,
@@ -16679,6 +16798,7 @@ Mauritania,2026,Apr,2026-04-01,5.0
 Mauritania,2026,May,2026-05-01,20.0
 Mauritania,2026,Jun,2026-06-01,30.0
 Mauritania,2026,Jul,2026-07-01,20.0
+Mauritania,2026,Aug,2026-08-01,10.0
 Mauritius,2015,Jan,2015-01-01,10.0
 Mauritius,2015,Feb,2015-02-01,15.0
 Mauritius,2015,Mar,2015-03-01,70.0
@@ -16818,6 +16938,7 @@ Mauritius,2026,Apr,2026-04-01,115.0
 Mauritius,2026,May,2026-05-01,130.0
 Mauritius,2026,Jun,2026-06-01,95.0
 Mauritius,2026,Jul,2026-07-01,160.0
+Mauritius,2026,Aug,2026-08-01,90.0
 Mexico,2015,Jan,2015-01-01,195.0
 Mexico,2015,Feb,2015-02-01,185.0
 Mexico,2015,Mar,2015-03-01,270.0
@@ -16957,6 +17078,7 @@ Mexico,2026,Apr,2026-04-01,630.0
 Mexico,2026,May,2026-05-01,660.0
 Mexico,2026,Jun,2026-06-01,620.0
 Mexico,2026,Jul,2026-07-01,765.0
+Mexico,2026,Aug,2026-08-01,960.0
 "Micronesia, Federated States of",2015,Jan,2015-01-01,0.0
 "Micronesia, Federated States of",2015,Feb,2015-02-01,0.0
 "Micronesia, Federated States of",2015,Mar,2015-03-01,0.0
@@ -17096,6 +17218,7 @@ Mexico,2026,Jul,2026-07-01,765.0
 "Micronesia, Federated States of",2026,May,2026-05-01,0.0
 "Micronesia, Federated States of",2026,Jun,2026-06-01,0.0
 "Micronesia, Federated States of",2026,Jul,2026-07-01,0.0
+"Micronesia, Federated States of",2026,Aug,2026-08-01,0.0
 Moldova,2015,Jan,2015-01-01,20.0
 Moldova,2015,Feb,2015-02-01,25.0
 Moldova,2015,Mar,2015-03-01,65.0
@@ -17235,6 +17358,7 @@ Moldova,2026,Apr,2026-04-01,10.0
 Moldova,2026,May,2026-05-01,10.0
 Moldova,2026,Jun,2026-06-01,15.0
 Moldova,2026,Jul,2026-07-01,5.0
+Moldova,2026,Aug,2026-08-01,10.0
 Monaco,2015,Jan,2015-01-01,0.0
 Monaco,2015,Feb,2015-02-01,0.0
 Monaco,2015,Mar,2015-03-01,0.0
@@ -17374,6 +17498,7 @@ Monaco,2026,Apr,2026-04-01,0.0
 Monaco,2026,May,2026-05-01,0.0
 Monaco,2026,Jun,2026-06-01,0.0
 Monaco,2026,Jul,2026-07-01,0.0
+Monaco,2026,Aug,2026-08-01,0.0
 "Mongolia, People's Republic of",2015,Jan,2015-01-01,
 "Mongolia, People's Republic of",2015,Feb,2015-02-01,
 "Mongolia, People's Republic of",2015,Mar,2015-03-01,20.0
@@ -17513,6 +17638,7 @@ Monaco,2026,Jul,2026-07-01,0.0
 "Mongolia, People's Republic of",2026,May,2026-05-01,5.0
 "Mongolia, People's Republic of",2026,Jun,2026-06-01,15.0
 "Mongolia, People's Republic of",2026,Jul,2026-07-01,10.0
+"Mongolia, People's Republic of",2026,Aug,2026-08-01,10.0
 "Montenegro, Republic of",2015,Jan,2015-01-01,0.0
 "Montenegro, Republic of",2015,Feb,2015-02-01,
 "Montenegro, Republic of",2015,Mar,2015-03-01,5.0
@@ -17652,6 +17778,7 @@ Monaco,2026,Jul,2026-07-01,0.0
 "Montenegro, Republic of",2026,May,2026-05-01,
 "Montenegro, Republic of",2026,Jun,2026-06-01,0.0
 "Montenegro, Republic of",2026,Jul,2026-07-01,
+"Montenegro, Republic of",2026,Aug,2026-08-01,0.0
 Morocco,2015,Jan,2015-01-01,125.0
 Morocco,2015,Feb,2015-02-01,155.0
 Morocco,2015,Mar,2015-03-01,280.0
@@ -17791,6 +17918,7 @@ Morocco,2026,Apr,2026-04-01,555.0
 Morocco,2026,May,2026-05-01,400.0
 Morocco,2026,Jun,2026-06-01,390.0
 Morocco,2026,Jul,2026-07-01,495.0
+Morocco,2026,Aug,2026-08-01,400.0
 Mozambique,2015,Jan,2015-01-01,
 Mozambique,2015,Feb,2015-02-01,0.0
 Mozambique,2015,Mar,2015-03-01,0.0
@@ -17930,6 +18058,7 @@ Mozambique,2026,Apr,2026-04-01,0.0
 Mozambique,2026,May,2026-05-01,
 Mozambique,2026,Jun,2026-06-01,
 Mozambique,2026,Jul,2026-07-01,0.0
+Mozambique,2026,Aug,2026-08-01,
 Myanmar (Burma),2015,Jan,2015-01-01,
 Myanmar (Burma),2015,Feb,2015-02-01,25.0
 Myanmar (Burma),2015,Mar,2015-03-01,20.0
@@ -18068,7 +18197,8 @@ Myanmar (Burma),2026,Mar,2026-03-01,15.0
 Myanmar (Burma),2026,Apr,2026-04-01,20.0
 Myanmar (Burma),2026,May,2026-05-01,30.0
 Myanmar (Burma),2026,Jun,2026-06-01,30.0
-Myanmar (Burma),2026,Jul,2026-07-01,15.0
+Myanmar (Burma),2026,Jul,2026-07-01,20.0
+Myanmar (Burma),2026,Aug,2026-08-01,35.0
 Namibia,2015,Jan,2015-01-01,
 Namibia,2015,Feb,2015-02-01,
 Namibia,2015,Mar,2015-03-01,15.0
@@ -18208,6 +18338,7 @@ Namibia,2026,Apr,2026-04-01,5.0
 Namibia,2026,May,2026-05-01,
 Namibia,2026,Jun,2026-06-01,5.0
 Namibia,2026,Jul,2026-07-01,5.0
+Namibia,2026,Aug,2026-08-01,10.0
 Nauru,2015,Jan,2015-01-01,0.0
 Nauru,2015,Feb,2015-02-01,0.0
 Nauru,2015,Mar,2015-03-01,0.0
@@ -18347,6 +18478,7 @@ Nauru,2026,Apr,2026-04-01,0.0
 Nauru,2026,May,2026-05-01,0.0
 Nauru,2026,Jun,2026-06-01,0.0
 Nauru,2026,Jul,2026-07-01,
+Nauru,2026,Aug,2026-08-01,0.0
 Nepal,2015,Jan,2015-01-01,60.0
 Nepal,2015,Feb,2015-02-01,40.0
 Nepal,2015,Mar,2015-03-01,50.0
@@ -18486,6 +18618,7 @@ Nepal,2026,Apr,2026-04-01,200.0
 Nepal,2026,May,2026-05-01,275.0
 Nepal,2026,Jun,2026-06-01,290.0
 Nepal,2026,Jul,2026-07-01,310.0
+Nepal,2026,Aug,2026-08-01,315.0
 "Netherlands Antilles, The",2015,Jan,2015-01-01,0.0
 "Netherlands Antilles, The",2015,Feb,2015-02-01,0.0
 "Netherlands Antilles, The",2015,Mar,2015-03-01,0.0
@@ -18625,6 +18758,7 @@ Nepal,2026,Jul,2026-07-01,310.0
 "Netherlands Antilles, The",2026,May,2026-05-01,0.0
 "Netherlands Antilles, The",2026,Jun,2026-06-01,0.0
 "Netherlands Antilles, The",2026,Jul,2026-07-01,0.0
+"Netherlands Antilles, The",2026,Aug,2026-08-01,0.0
 "Netherlands, The",2015,Jan,2015-01-01,40.0
 "Netherlands, The",2015,Feb,2015-02-01,20.0
 "Netherlands, The",2015,Mar,2015-03-01,30.0
@@ -18764,6 +18898,7 @@ Nepal,2026,Jul,2026-07-01,310.0
 "Netherlands, The",2026,May,2026-05-01,25.0
 "Netherlands, The",2026,Jun,2026-06-01,15.0
 "Netherlands, The",2026,Jul,2026-07-01,35.0
+"Netherlands, The",2026,Aug,2026-08-01,35.0
 Nevis,2015,Jan,2015-01-01,0.0
 Nevis,2015,Feb,2015-02-01,0.0
 Nevis,2015,Mar,2015-03-01,0.0
@@ -18903,6 +19038,7 @@ Nevis,2026,Apr,2026-04-01,0.0
 Nevis,2026,May,2026-05-01,0.0
 Nevis,2026,Jun,2026-06-01,0.0
 Nevis,2026,Jul,2026-07-01,0.0
+Nevis,2026,Aug,2026-08-01,0.0
 New Caledonia,2015,Jan,2015-01-01,0.0
 New Caledonia,2015,Feb,2015-02-01,0.0
 New Caledonia,2015,Mar,2015-03-01,0.0
@@ -19042,6 +19178,7 @@ New Caledonia,2026,Apr,2026-04-01,0.0
 New Caledonia,2026,May,2026-05-01,0.0
 New Caledonia,2026,Jun,2026-06-01,0.0
 New Caledonia,2026,Jul,2026-07-01,0.0
+New Caledonia,2026,Aug,2026-08-01,0.0
 New Zealand,2015,Jan,2015-01-01,20.0
 New Zealand,2015,Feb,2015-02-01,15.0
 New Zealand,2015,Mar,2015-03-01,25.0
@@ -19181,6 +19318,7 @@ New Zealand,2026,Apr,2026-04-01,20.0
 New Zealand,2026,May,2026-05-01,20.0
 New Zealand,2026,Jun,2026-06-01,20.0
 New Zealand,2026,Jul,2026-07-01,25.0
+New Zealand,2026,Aug,2026-08-01,30.0
 Nicaragua,2015,Jan,2015-01-01,
 Nicaragua,2015,Feb,2015-02-01,5.0
 Nicaragua,2015,Mar,2015-03-01,15.0
@@ -19320,6 +19458,7 @@ Nicaragua,2026,Apr,2026-04-01,15.0
 Nicaragua,2026,May,2026-05-01,20.0
 Nicaragua,2026,Jun,2026-06-01,35.0
 Nicaragua,2026,Jul,2026-07-01,40.0
+Nicaragua,2026,Aug,2026-08-01,105.0
 "Niger, Republic of the",2015,Jan,2015-01-01,
 "Niger, Republic of the",2015,Feb,2015-02-01,
 "Niger, Republic of the",2015,Mar,2015-03-01,10.0
@@ -19459,6 +19598,7 @@ Nicaragua,2026,Jul,2026-07-01,40.0
 "Niger, Republic of the",2026,May,2026-05-01,10.0
 "Niger, Republic of the",2026,Jun,2026-06-01,10.0
 "Niger, Republic of the",2026,Jul,2026-07-01,5.0
+"Niger, Republic of the",2026,Aug,2026-08-01,10.0
 Nigeria,2015,Jan,2015-01-01,260.0
 Nigeria,2015,Feb,2015-02-01,310.0
 Nigeria,2015,Mar,2015-03-01,380.0
@@ -19597,7 +19737,8 @@ Nigeria,2026,Mar,2026-03-01,1510.0
 Nigeria,2026,Apr,2026-04-01,1400.0
 Nigeria,2026,May,2026-05-01,1695.0
 Nigeria,2026,Jun,2026-06-01,1935.0
-Nigeria,2026,Jul,2026-07-01,2265.0
+Nigeria,2026,Jul,2026-07-01,2275.0
+Nigeria,2026,Aug,2026-08-01,2600.0
 "Northern Mariana Islands, Commonwealth of the",2015,Jan,2015-01-01,0.0
 "Northern Mariana Islands, Commonwealth of the",2015,Feb,2015-02-01,0.0
 "Northern Mariana Islands, Commonwealth of the",2015,Mar,2015-03-01,0.0
@@ -19737,6 +19878,7 @@ Nigeria,2026,Jul,2026-07-01,2265.0
 "Northern Mariana Islands, Commonwealth of the",2026,May,2026-05-01,0.0
 "Northern Mariana Islands, Commonwealth of the",2026,Jun,2026-06-01,0.0
 "Northern Mariana Islands, Commonwealth of the",2026,Jul,2026-07-01,0.0
+"Northern Mariana Islands, Commonwealth of the",2026,Aug,2026-08-01,
 Norway,2015,Jan,2015-01-01,
 Norway,2015,Feb,2015-02-01,5.0
 Norway,2015,Mar,2015-03-01,
@@ -19876,6 +20018,7 @@ Norway,2026,Apr,2026-04-01,
 Norway,2026,May,2026-05-01,
 Norway,2026,Jun,2026-06-01,
 Norway,2026,Jul,2026-07-01,5.0
+Norway,2026,Aug,2026-08-01,10.0
 Oman,2015,Jan,2015-01-01,0.0
 Oman,2015,Feb,2015-02-01,0.0
 Oman,2015,Mar,2015-03-01,
@@ -20015,6 +20158,7 @@ Oman,2026,Apr,2026-04-01,0.0
 Oman,2026,May,2026-05-01,
 Oman,2026,Jun,2026-06-01,0.0
 Oman,2026,Jul,2026-07-01,
+Oman,2026,Aug,2026-08-01,10.0
 Other,2015,Jan,2015-01-01,0.0
 Other,2015,Feb,2015-02-01,0.0
 Other,2015,Mar,2015-03-01,
@@ -20154,6 +20298,7 @@ Other,2026,Apr,2026-04-01,0.0
 Other,2026,May,2026-05-01,
 Other,2026,Jun,2026-06-01,0.0
 Other,2026,Jul,2026-07-01,5.0
+Other,2026,Aug,2026-08-01,
 Pakistan,2015,Jan,2015-01-01,505.0
 Pakistan,2015,Feb,2015-02-01,705.0
 Pakistan,2015,Mar,2015-03-01,1010.0
@@ -20293,6 +20438,7 @@ Pakistan,2026,Apr,2026-04-01,610.0
 Pakistan,2026,May,2026-05-01,895.0
 Pakistan,2026,Jun,2026-06-01,1090.0
 Pakistan,2026,Jul,2026-07-01,1065.0
+Pakistan,2026,Aug,2026-08-01,1130.0
 "Palau, Republic of",2015,Jan,2015-01-01,0.0
 "Palau, Republic of",2015,Feb,2015-02-01,0.0
 "Palau, Republic of",2015,Mar,2015-03-01,0.0
@@ -20432,6 +20578,7 @@ Pakistan,2026,Jul,2026-07-01,1065.0
 "Palau, Republic of",2026,May,2026-05-01,0.0
 "Palau, Republic of",2026,Jun,2026-06-01,0.0
 "Palau, Republic of",2026,Jul,2026-07-01,0.0
+"Palau, Republic of",2026,Aug,2026-08-01,0.0
 Palestinian Authority (Gaza/West Bank),2015,Jan,2015-01-01,25.0
 Palestinian Authority (Gaza/West Bank),2015,Feb,2015-02-01,20.0
 Palestinian Authority (Gaza/West Bank),2015,Mar,2015-03-01,20.0
@@ -20571,6 +20718,7 @@ Palestinian Authority (Gaza/West Bank),2026,Apr,2026-04-01,25.0
 Palestinian Authority (Gaza/West Bank),2026,May,2026-05-01,50.0
 Palestinian Authority (Gaza/West Bank),2026,Jun,2026-06-01,60.0
 Palestinian Authority (Gaza/West Bank),2026,Jul,2026-07-01,85.0
+Palestinian Authority (Gaza/West Bank),2026,Aug,2026-08-01,135.0
 "Panama, Republic of",2015,Jan,2015-01-01,
 "Panama, Republic of",2015,Feb,2015-02-01,5.0
 "Panama, Republic of",2015,Mar,2015-03-01,
@@ -20710,6 +20858,7 @@ Palestinian Authority (Gaza/West Bank),2026,Jul,2026-07-01,85.0
 "Panama, Republic of",2026,May,2026-05-01,5.0
 "Panama, Republic of",2026,Jun,2026-06-01,5.0
 "Panama, Republic of",2026,Jul,2026-07-01,15.0
+"Panama, Republic of",2026,Aug,2026-08-01,10.0
 Papua New Guinea,2015,Jan,2015-01-01,0.0
 Papua New Guinea,2015,Feb,2015-02-01,0.0
 Papua New Guinea,2015,Mar,2015-03-01,0.0
@@ -20849,6 +20998,7 @@ Papua New Guinea,2026,Apr,2026-04-01,
 Papua New Guinea,2026,May,2026-05-01,0.0
 Papua New Guinea,2026,Jun,2026-06-01,0.0
 Papua New Guinea,2026,Jul,2026-07-01,0.0
+Papua New Guinea,2026,Aug,2026-08-01,5.0
 Paraguay,2015,Jan,2015-01-01,
 Paraguay,2015,Feb,2015-02-01,
 Paraguay,2015,Mar,2015-03-01,
@@ -20988,6 +21138,7 @@ Paraguay,2026,Apr,2026-04-01,10.0
 Paraguay,2026,May,2026-05-01,
 Paraguay,2026,Jun,2026-06-01,
 Paraguay,2026,Jul,2026-07-01,
+Paraguay,2026,Aug,2026-08-01,
 Peru,2015,Jan,2015-01-01,40.0
 Peru,2015,Feb,2015-02-01,30.0
 Peru,2015,Mar,2015-03-01,55.0
@@ -21127,6 +21278,7 @@ Peru,2026,Apr,2026-04-01,95.0
 Peru,2026,May,2026-05-01,110.0
 Peru,2026,Jun,2026-06-01,145.0
 Peru,2026,Jul,2026-07-01,120.0
+Peru,2026,Aug,2026-08-01,155.0
 Philippines,2015,Jan,2015-01-01,2535.0
 Philippines,2015,Feb,2015-02-01,3880.0
 Philippines,2015,Mar,2015-03-01,3935.0
@@ -21265,7 +21417,8 @@ Philippines,2026,Mar,2026-03-01,2305.0
 Philippines,2026,Apr,2026-04-01,2160.0
 Philippines,2026,May,2026-05-01,2680.0
 Philippines,2026,Jun,2026-06-01,2415.0
-Philippines,2026,Jul,2026-07-01,2525.0
+Philippines,2026,Jul,2026-07-01,2540.0
+Philippines,2026,Aug,2026-08-01,2545.0
 Poland,2015,Jan,2015-01-01,30.0
 Poland,2015,Feb,2015-02-01,60.0
 Poland,2015,Mar,2015-03-01,70.0
@@ -21405,6 +21558,7 @@ Poland,2026,Apr,2026-04-01,20.0
 Poland,2026,May,2026-05-01,15.0
 Poland,2026,Jun,2026-06-01,10.0
 Poland,2026,Jul,2026-07-01,20.0
+Poland,2026,Aug,2026-08-01,15.0
 Portugal,2015,Jan,2015-01-01,40.0
 Portugal,2015,Feb,2015-02-01,40.0
 Portugal,2015,Mar,2015-03-01,40.0
@@ -21544,6 +21698,7 @@ Portugal,2026,Apr,2026-04-01,40.0
 Portugal,2026,May,2026-05-01,30.0
 Portugal,2026,Jun,2026-06-01,30.0
 Portugal,2026,Jul,2026-07-01,30.0
+Portugal,2026,Aug,2026-08-01,25.0
 Puerto Rico,2015,Jan,2015-01-01,0.0
 Puerto Rico,2015,Feb,2015-02-01,0.0
 Puerto Rico,2015,Mar,2015-03-01,0.0
@@ -21683,6 +21838,7 @@ Puerto Rico,2026,Apr,2026-04-01,0.0
 Puerto Rico,2026,May,2026-05-01,0.0
 Puerto Rico,2026,Jun,2026-06-01,0.0
 Puerto Rico,2026,Jul,2026-07-01,0.0
+Puerto Rico,2026,Aug,2026-08-01,0.0
 Qatar,2015,Jan,2015-01-01,0.0
 Qatar,2015,Feb,2015-02-01,0.0
 Qatar,2015,Mar,2015-03-01,0.0
@@ -21822,6 +21978,7 @@ Qatar,2026,Apr,2026-04-01,0.0
 Qatar,2026,May,2026-05-01,
 Qatar,2026,Jun,2026-06-01,
 Qatar,2026,Jul,2026-07-01,0.0
+Qatar,2026,Aug,2026-08-01,0.0
 Reunion,2015,Jan,2015-01-01,0.0
 Reunion,2015,Feb,2015-02-01,0.0
 Reunion,2015,Mar,2015-03-01,0.0
@@ -21961,6 +22118,7 @@ Reunion,2026,Apr,2026-04-01,0.0
 Reunion,2026,May,2026-05-01,0.0
 Reunion,2026,Jun,2026-06-01,0.0
 Reunion,2026,Jul,2026-07-01,0.0
+Reunion,2026,Aug,2026-08-01,0.0
 Romania,2015,Jan,2015-01-01,55.0
 Romania,2015,Feb,2015-02-01,90.0
 Romania,2015,Mar,2015-03-01,80.0
@@ -22100,6 +22258,7 @@ Romania,2026,Apr,2026-04-01,30.0
 Romania,2026,May,2026-05-01,30.0
 Romania,2026,Jun,2026-06-01,20.0
 Romania,2026,Jul,2026-07-01,25.0
+Romania,2026,Aug,2026-08-01,25.0
 Russia,2015,Jan,2015-01-01,110.0
 Russia,2015,Feb,2015-02-01,95.0
 Russia,2015,Mar,2015-03-01,170.0
@@ -22239,6 +22398,7 @@ Russia,2026,Apr,2026-04-01,90.0
 Russia,2026,May,2026-05-01,100.0
 Russia,2026,Jun,2026-06-01,95.0
 Russia,2026,Jul,2026-07-01,95.0
+Russia,2026,Aug,2026-08-01,140.0
 Rwanda,2015,Jan,2015-01-01,25.0
 Rwanda,2015,Feb,2015-02-01,15.0
 Rwanda,2015,Mar,2015-03-01,15.0
@@ -22378,6 +22538,7 @@ Rwanda,2026,Apr,2026-04-01,85.0
 Rwanda,2026,May,2026-05-01,130.0
 Rwanda,2026,Jun,2026-06-01,160.0
 Rwanda,2026,Jul,2026-07-01,180.0
+Rwanda,2026,Aug,2026-08-01,220.0
 "Samoa, American",2015,Jan,2015-01-01,0.0
 "Samoa, American",2015,Feb,2015-02-01,0.0
 "Samoa, American",2015,Mar,2015-03-01,0.0
@@ -22517,6 +22678,7 @@ Rwanda,2026,Jul,2026-07-01,180.0
 "Samoa, American",2026,May,2026-05-01,0.0
 "Samoa, American",2026,Jun,2026-06-01,0.0
 "Samoa, American",2026,Jul,2026-07-01,0.0
+"Samoa, American",2026,Aug,2026-08-01,0.0
 "Samoa, Independent State of",2015,Jan,2015-01-01,0.0
 "Samoa, Independent State of",2015,Feb,2015-02-01,
 "Samoa, Independent State of",2015,Mar,2015-03-01,0.0
@@ -22656,6 +22818,7 @@ Rwanda,2026,Jul,2026-07-01,180.0
 "Samoa, Independent State of",2026,May,2026-05-01,
 "Samoa, Independent State of",2026,Jun,2026-06-01,0.0
 "Samoa, Independent State of",2026,Jul,2026-07-01,0.0
+"Samoa, Independent State of",2026,Aug,2026-08-01,0.0
 San Marino,2015,Jan,2015-01-01,0.0
 San Marino,2015,Feb,2015-02-01,0.0
 San Marino,2015,Mar,2015-03-01,0.0
@@ -22795,6 +22958,7 @@ San Marino,2026,Apr,2026-04-01,0.0
 San Marino,2026,May,2026-05-01,0.0
 San Marino,2026,Jun,2026-06-01,0.0
 San Marino,2026,Jul,2026-07-01,0.0
+San Marino,2026,Aug,2026-08-01,0.0
 Sao Tome and Principe,2015,Jan,2015-01-01,0.0
 Sao Tome and Principe,2015,Feb,2015-02-01,0.0
 Sao Tome and Principe,2015,Mar,2015-03-01,0.0
@@ -22934,6 +23098,7 @@ Sao Tome and Principe,2026,Apr,2026-04-01,0.0
 Sao Tome and Principe,2026,May,2026-05-01,0.0
 Sao Tome and Principe,2026,Jun,2026-06-01,0.0
 Sao Tome and Principe,2026,Jul,2026-07-01,0.0
+Sao Tome and Principe,2026,Aug,2026-08-01,0.0
 Saudi Arabia,2015,Jan,2015-01-01,10.0
 Saudi Arabia,2015,Feb,2015-02-01,5.0
 Saudi Arabia,2015,Mar,2015-03-01,20.0
@@ -23073,6 +23238,7 @@ Saudi Arabia,2026,Apr,2026-04-01,15.0
 Saudi Arabia,2026,May,2026-05-01,10.0
 Saudi Arabia,2026,Jun,2026-06-01,20.0
 Saudi Arabia,2026,Jul,2026-07-01,10.0
+Saudi Arabia,2026,Aug,2026-08-01,25.0
 Senegal,2015,Jan,2015-01-01,30.0
 Senegal,2015,Feb,2015-02-01,45.0
 Senegal,2015,Mar,2015-03-01,45.0
@@ -23212,6 +23378,7 @@ Senegal,2026,Apr,2026-04-01,80.0
 Senegal,2026,May,2026-05-01,95.0
 Senegal,2026,Jun,2026-06-01,90.0
 Senegal,2026,Jul,2026-07-01,130.0
+Senegal,2026,Aug,2026-08-01,75.0
 "Serbia, Republic of",2015,Jan,2015-01-01,40.0
 "Serbia, Republic of",2015,Feb,2015-02-01,30.0
 "Serbia, Republic of",2015,Mar,2015-03-01,50.0
@@ -23351,6 +23518,7 @@ Senegal,2026,Jul,2026-07-01,130.0
 "Serbia, Republic of",2026,May,2026-05-01,10.0
 "Serbia, Republic of",2026,Jun,2026-06-01,15.0
 "Serbia, Republic of",2026,Jul,2026-07-01,
+"Serbia, Republic of",2026,Aug,2026-08-01,
 Seychelles,2015,Jan,2015-01-01,0.0
 Seychelles,2015,Feb,2015-02-01,0.0
 Seychelles,2015,Mar,2015-03-01,0.0
@@ -23490,6 +23658,7 @@ Seychelles,2026,Apr,2026-04-01,0.0
 Seychelles,2026,May,2026-05-01,0.0
 Seychelles,2026,Jun,2026-06-01,0.0
 Seychelles,2026,Jul,2026-07-01,0.0
+Seychelles,2026,Aug,2026-08-01,
 Sierra Leone,2015,Jan,2015-01-01,10.0
 Sierra Leone,2015,Feb,2015-02-01,15.0
 Sierra Leone,2015,Mar,2015-03-01,15.0
@@ -23629,6 +23798,7 @@ Sierra Leone,2026,Apr,2026-04-01,10.0
 Sierra Leone,2026,May,2026-05-01,
 Sierra Leone,2026,Jun,2026-06-01,15.0
 Sierra Leone,2026,Jul,2026-07-01,10.0
+Sierra Leone,2026,Aug,2026-08-01,5.0
 Singapore,2015,Jan,2015-01-01,10.0
 Singapore,2015,Feb,2015-02-01,10.0
 Singapore,2015,Mar,2015-03-01,20.0
@@ -23768,6 +23938,7 @@ Singapore,2026,Apr,2026-04-01,15.0
 Singapore,2026,May,2026-05-01,5.0
 Singapore,2026,Jun,2026-06-01,15.0
 Singapore,2026,Jul,2026-07-01,10.0
+Singapore,2026,Aug,2026-08-01,10.0
 Sint-Maarten,2015,Jan,2015-01-01,0.0
 Sint-Maarten,2015,Feb,2015-02-01,0.0
 Sint-Maarten,2015,Mar,2015-03-01,0.0
@@ -23907,6 +24078,7 @@ Sint-Maarten,2026,Apr,2026-04-01,0.0
 Sint-Maarten,2026,May,2026-05-01,0.0
 Sint-Maarten,2026,Jun,2026-06-01,0.0
 Sint-Maarten,2026,Jul,2026-07-01,0.0
+Sint-Maarten,2026,Aug,2026-08-01,0.0
 Slovak Republic,2015,Jan,2015-01-01,5.0
 Slovak Republic,2015,Feb,2015-02-01,10.0
 Slovak Republic,2015,Mar,2015-03-01,20.0
@@ -24046,6 +24218,7 @@ Slovak Republic,2026,Apr,2026-04-01,10.0
 Slovak Republic,2026,May,2026-05-01,10.0
 Slovak Republic,2026,Jun,2026-06-01,
 Slovak Republic,2026,Jul,2026-07-01,35.0
+Slovak Republic,2026,Aug,2026-08-01,25.0
 Slovenia,2015,Jan,2015-01-01,10.0
 Slovenia,2015,Feb,2015-02-01,
 Slovenia,2015,Mar,2015-03-01,
@@ -24185,6 +24358,7 @@ Slovenia,2026,Apr,2026-04-01,0.0
 Slovenia,2026,May,2026-05-01,0.0
 Slovenia,2026,Jun,2026-06-01,0.0
 Slovenia,2026,Jul,2026-07-01,
+Slovenia,2026,Aug,2026-08-01,
 Solomon Islands,2015,Jan,2015-01-01,
 Solomon Islands,2015,Feb,2015-02-01,0.0
 Solomon Islands,2015,Mar,2015-03-01,0.0
@@ -24324,6 +24498,7 @@ Solomon Islands,2026,Apr,2026-04-01,0.0
 Solomon Islands,2026,May,2026-05-01,0.0
 Solomon Islands,2026,Jun,2026-06-01,0.0
 Solomon Islands,2026,Jul,2026-07-01,0.0
+Solomon Islands,2026,Aug,2026-08-01,0.0
 "Somalia, Democratic Republic of",2015,Jan,2015-01-01,90.0
 "Somalia, Democratic Republic of",2015,Feb,2015-02-01,85.0
 "Somalia, Democratic Republic of",2015,Mar,2015-03-01,85.0
@@ -24463,6 +24638,7 @@ Solomon Islands,2026,Jul,2026-07-01,0.0
 "Somalia, Democratic Republic of",2026,May,2026-05-01,340.0
 "Somalia, Democratic Republic of",2026,Jun,2026-06-01,185.0
 "Somalia, Democratic Republic of",2026,Jul,2026-07-01,255.0
+"Somalia, Democratic Republic of",2026,Aug,2026-08-01,270.0
 "South Africa, Republic of",2015,Jan,2015-01-01,25.0
 "South Africa, Republic of",2015,Feb,2015-02-01,40.0
 "South Africa, Republic of",2015,Mar,2015-03-01,85.0
@@ -24601,7 +24777,8 @@ Solomon Islands,2026,Jul,2026-07-01,0.0
 "South Africa, Republic of",2026,Apr,2026-04-01,60.0
 "South Africa, Republic of",2026,May,2026-05-01,75.0
 "South Africa, Republic of",2026,Jun,2026-06-01,85.0
-"South Africa, Republic of",2026,Jul,2026-07-01,105.0
+"South Africa, Republic of",2026,Jul,2026-07-01,110.0
+"South Africa, Republic of",2026,Aug,2026-08-01,80.0
 "South Sudan, Republic of",2015,Jan,2015-01-01,
 "South Sudan, Republic of",2015,Feb,2015-02-01,0.0
 "South Sudan, Republic of",2015,Mar,2015-03-01,
@@ -24741,6 +24918,7 @@ Solomon Islands,2026,Jul,2026-07-01,0.0
 "South Sudan, Republic of",2026,May,2026-05-01,55.0
 "South Sudan, Republic of",2026,Jun,2026-06-01,20.0
 "South Sudan, Republic of",2026,Jul,2026-07-01,65.0
+"South Sudan, Republic of",2026,Aug,2026-08-01,60.0
 Spain,2015,Jan,2015-01-01,50.0
 Spain,2015,Feb,2015-02-01,30.0
 Spain,2015,Mar,2015-03-01,35.0
@@ -24880,6 +25058,7 @@ Spain,2026,Apr,2026-04-01,30.0
 Spain,2026,May,2026-05-01,35.0
 Spain,2026,Jun,2026-06-01,35.0
 Spain,2026,Jul,2026-07-01,35.0
+Spain,2026,Aug,2026-08-01,35.0
 Sri Lanka,2015,Jan,2015-01-01,95.0
 Sri Lanka,2015,Feb,2015-02-01,110.0
 Sri Lanka,2015,Mar,2015-03-01,160.0
@@ -25019,6 +25198,7 @@ Sri Lanka,2026,Apr,2026-04-01,240.0
 Sri Lanka,2026,May,2026-05-01,435.0
 Sri Lanka,2026,Jun,2026-06-01,535.0
 Sri Lanka,2026,Jul,2026-07-01,525.0
+Sri Lanka,2026,Aug,2026-08-01,640.0
 St. Kitts-Nevis,2015,Jan,2015-01-01,0.0
 St. Kitts-Nevis,2015,Feb,2015-02-01,0.0
 St. Kitts-Nevis,2015,Mar,2015-03-01,10.0
@@ -25158,6 +25338,7 @@ St. Kitts-Nevis,2026,Apr,2026-04-01,
 St. Kitts-Nevis,2026,May,2026-05-01,
 St. Kitts-Nevis,2026,Jun,2026-06-01,
 St. Kitts-Nevis,2026,Jul,2026-07-01,
+St. Kitts-Nevis,2026,Aug,2026-08-01,
 St. Lucia,2015,Jan,2015-01-01,35.0
 St. Lucia,2015,Feb,2015-02-01,20.0
 St. Lucia,2015,Mar,2015-03-01,50.0
@@ -25297,6 +25478,7 @@ St. Lucia,2026,Apr,2026-04-01,10.0
 St. Lucia,2026,May,2026-05-01,10.0
 St. Lucia,2026,Jun,2026-06-01,5.0
 St. Lucia,2026,Jul,2026-07-01,15.0
+St. Lucia,2026,Aug,2026-08-01,5.0
 St. Vincent and the Grenadines,2015,Jan,2015-01-01,35.0
 St. Vincent and the Grenadines,2015,Feb,2015-02-01,30.0
 St. Vincent and the Grenadines,2015,Mar,2015-03-01,60.0
@@ -25436,6 +25618,7 @@ St. Vincent and the Grenadines,2026,Apr,2026-04-01,15.0
 St. Vincent and the Grenadines,2026,May,2026-05-01,10.0
 St. Vincent and the Grenadines,2026,Jun,2026-06-01,10.0
 St. Vincent and the Grenadines,2026,Jul,2026-07-01,10.0
+St. Vincent and the Grenadines,2026,Aug,2026-08-01,5.0
 Stateless,2015,Jan,2015-01-01,65.0
 Stateless,2015,Feb,2015-02-01,75.0
 Stateless,2015,Mar,2015-03-01,110.0
@@ -25575,6 +25758,7 @@ Stateless,2026,Apr,2026-04-01,170.0
 Stateless,2026,May,2026-05-01,180.0
 Stateless,2026,Jun,2026-06-01,285.0
 Stateless,2026,Jul,2026-07-01,250.0
+Stateless,2026,Aug,2026-08-01,270.0
 "Sudan, Democratic Republic of",2015,Jan,2015-01-01,15.0
 "Sudan, Democratic Republic of",2015,Feb,2015-02-01,25.0
 "Sudan, Democratic Republic of",2015,Mar,2015-03-01,40.0
@@ -25714,6 +25898,7 @@ Stateless,2026,Jul,2026-07-01,250.0
 "Sudan, Democratic Republic of",2026,May,2026-05-01,635.0
 "Sudan, Democratic Republic of",2026,Jun,2026-06-01,655.0
 "Sudan, Democratic Republic of",2026,Jul,2026-07-01,940.0
+"Sudan, Democratic Republic of",2026,Aug,2026-08-01,665.0
 Surinam,2015,Jan,2015-01-01,0.0
 Surinam,2015,Feb,2015-02-01,0.0
 Surinam,2015,Mar,2015-03-01,0.0
@@ -25853,6 +26038,7 @@ Surinam,2026,Apr,2026-04-01,
 Surinam,2026,May,2026-05-01,0.0
 Surinam,2026,Jun,2026-06-01,0.0
 Surinam,2026,Jul,2026-07-01,0.0
+Surinam,2026,Aug,2026-08-01,
 Swaziland,2015,Jan,2015-01-01,
 Swaziland,2015,Feb,2015-02-01,
 Swaziland,2015,Mar,2015-03-01,10.0
@@ -25992,6 +26178,7 @@ Swaziland,2026,Apr,2026-04-01,
 Swaziland,2026,May,2026-05-01,0.0
 Swaziland,2026,Jun,2026-06-01,
 Swaziland,2026,Jul,2026-07-01,0.0
+Swaziland,2026,Aug,2026-08-01,
 Sweden,2015,Jan,2015-01-01,5.0
 Sweden,2015,Feb,2015-02-01,10.0
 Sweden,2015,Mar,2015-03-01,20.0
@@ -26131,6 +26318,7 @@ Sweden,2026,Apr,2026-04-01,15.0
 Sweden,2026,May,2026-05-01,5.0
 Sweden,2026,Jun,2026-06-01,10.0
 Sweden,2026,Jul,2026-07-01,15.0
+Sweden,2026,Aug,2026-08-01,15.0
 Switzerland,2015,Jan,2015-01-01,15.0
 Switzerland,2015,Feb,2015-02-01,15.0
 Switzerland,2015,Mar,2015-03-01,15.0
@@ -26270,6 +26458,7 @@ Switzerland,2026,Apr,2026-04-01,10.0
 Switzerland,2026,May,2026-05-01,15.0
 Switzerland,2026,Jun,2026-06-01,
 Switzerland,2026,Jul,2026-07-01,15.0
+Switzerland,2026,Aug,2026-08-01,10.0
 Syria,2015,Jan,2015-01-01,110.0
 Syria,2015,Feb,2015-02-01,220.0
 Syria,2015,Mar,2015-03-01,415.0
@@ -26409,6 +26598,7 @@ Syria,2026,Apr,2026-04-01,580.0
 Syria,2026,May,2026-05-01,520.0
 Syria,2026,Jun,2026-06-01,655.0
 Syria,2026,Jul,2026-07-01,720.0
+Syria,2026,Aug,2026-08-01,500.0
 Taiwan,2015,Jan,2015-01-01,30.0
 Taiwan,2015,Feb,2015-02-01,30.0
 Taiwan,2015,Mar,2015-03-01,45.0
@@ -26548,6 +26738,7 @@ Taiwan,2026,Apr,2026-04-01,90.0
 Taiwan,2026,May,2026-05-01,75.0
 Taiwan,2026,Jun,2026-06-01,60.0
 Taiwan,2026,Jul,2026-07-01,95.0
+Taiwan,2026,Aug,2026-08-01,75.0
 Tajikistan,2015,Jan,2015-01-01,0.0
 Tajikistan,2015,Feb,2015-02-01,5.0
 Tajikistan,2015,Mar,2015-03-01,10.0
@@ -26687,6 +26878,7 @@ Tajikistan,2026,Apr,2026-04-01,
 Tajikistan,2026,May,2026-05-01,10.0
 Tajikistan,2026,Jun,2026-06-01,15.0
 Tajikistan,2026,Jul,2026-07-01,5.0
+Tajikistan,2026,Aug,2026-08-01,25.0
 "Tanzania, United Republic of",2015,Jan,2015-01-01,
 "Tanzania, United Republic of",2015,Feb,2015-02-01,10.0
 "Tanzania, United Republic of",2015,Mar,2015-03-01,10.0
@@ -26826,6 +27018,7 @@ Tajikistan,2026,Jul,2026-07-01,5.0
 "Tanzania, United Republic of",2026,May,2026-05-01,45.0
 "Tanzania, United Republic of",2026,Jun,2026-06-01,50.0
 "Tanzania, United Republic of",2026,Jul,2026-07-01,40.0
+"Tanzania, United Republic of",2026,Aug,2026-08-01,60.0
 Thailand,2015,Jan,2015-01-01,30.0
 Thailand,2015,Feb,2015-02-01,25.0
 Thailand,2015,Mar,2015-03-01,40.0
@@ -26965,6 +27158,7 @@ Thailand,2026,Apr,2026-04-01,40.0
 Thailand,2026,May,2026-05-01,35.0
 Thailand,2026,Jun,2026-06-01,35.0
 Thailand,2026,Jul,2026-07-01,35.0
+Thailand,2026,Aug,2026-08-01,40.0
 "Togo, Republic of",2015,Jan,2015-01-01,10.0
 "Togo, Republic of",2015,Feb,2015-02-01,15.0
 "Togo, Republic of",2015,Mar,2015-03-01,35.0
@@ -27104,6 +27298,7 @@ Thailand,2026,Jul,2026-07-01,35.0
 "Togo, Republic of",2026,May,2026-05-01,110.0
 "Togo, Republic of",2026,Jun,2026-06-01,135.0
 "Togo, Republic of",2026,Jul,2026-07-01,140.0
+"Togo, Republic of",2026,Aug,2026-08-01,65.0
 Tonga,2015,Jan,2015-01-01,
 Tonga,2015,Feb,2015-02-01,0.0
 Tonga,2015,Mar,2015-03-01,0.0
@@ -27243,6 +27438,7 @@ Tonga,2026,Apr,2026-04-01,0.0
 Tonga,2026,May,2026-05-01,0.0
 Tonga,2026,Jun,2026-06-01,0.0
 Tonga,2026,Jul,2026-07-01,0.0
+Tonga,2026,Aug,2026-08-01,0.0
 "Trinidad and Tobago, Republic of",2015,Jan,2015-01-01,10.0
 "Trinidad and Tobago, Republic of",2015,Feb,2015-02-01,15.0
 "Trinidad and Tobago, Republic of",2015,Mar,2015-03-01,25.0
@@ -27382,6 +27578,7 @@ Tonga,2026,Jul,2026-07-01,0.0
 "Trinidad and Tobago, Republic of",2026,May,2026-05-01,30.0
 "Trinidad and Tobago, Republic of",2026,Jun,2026-06-01,25.0
 "Trinidad and Tobago, Republic of",2026,Jul,2026-07-01,30.0
+"Trinidad and Tobago, Republic of",2026,Aug,2026-08-01,35.0
 Tunisia,2015,Jan,2015-01-01,50.0
 Tunisia,2015,Feb,2015-02-01,65.0
 Tunisia,2015,Mar,2015-03-01,80.0
@@ -27521,6 +27718,7 @@ Tunisia,2026,Apr,2026-04-01,420.0
 Tunisia,2026,May,2026-05-01,290.0
 Tunisia,2026,Jun,2026-06-01,290.0
 Tunisia,2026,Jul,2026-07-01,385.0
+Tunisia,2026,Aug,2026-08-01,350.0
 Turkey,2015,Jan,2015-01-01,50.0
 Turkey,2015,Feb,2015-02-01,65.0
 Turkey,2015,Mar,2015-03-01,60.0
@@ -27660,6 +27858,7 @@ Turkey,2026,Apr,2026-04-01,235.0
 Turkey,2026,May,2026-05-01,385.0
 Turkey,2026,Jun,2026-06-01,830.0
 Turkey,2026,Jul,2026-07-01,920.0
+Turkey,2026,Aug,2026-08-01,1425.0
 Turkmenistan,2015,Jan,2015-01-01,0.0
 Turkmenistan,2015,Feb,2015-02-01,0.0
 Turkmenistan,2015,Mar,2015-03-01,0.0
@@ -27799,6 +27998,7 @@ Turkmenistan,2026,Apr,2026-04-01,
 Turkmenistan,2026,May,2026-05-01,
 Turkmenistan,2026,Jun,2026-06-01,0.0
 Turkmenistan,2026,Jul,2026-07-01,
+Turkmenistan,2026,Aug,2026-08-01,
 Turks and Caicos Islands,2015,Jan,2015-01-01,0.0
 Turks and Caicos Islands,2015,Feb,2015-02-01,0.0
 Turks and Caicos Islands,2015,Mar,2015-03-01,0.0
@@ -27938,6 +28138,7 @@ Turks and Caicos Islands,2026,Apr,2026-04-01,0.0
 Turks and Caicos Islands,2026,May,2026-05-01,0.0
 Turks and Caicos Islands,2026,Jun,2026-06-01,0.0
 Turks and Caicos Islands,2026,Jul,2026-07-01,0.0
+Turks and Caicos Islands,2026,Aug,2026-08-01,0.0
 Tuvalu,2015,Jan,2015-01-01,0.0
 Tuvalu,2015,Feb,2015-02-01,0.0
 Tuvalu,2015,Mar,2015-03-01,0.0
@@ -28077,6 +28278,7 @@ Tuvalu,2026,Apr,2026-04-01,0.0
 Tuvalu,2026,May,2026-05-01,0.0
 Tuvalu,2026,Jun,2026-06-01,0.0
 Tuvalu,2026,Jul,2026-07-01,0.0
+Tuvalu,2026,Aug,2026-08-01,0.0
 Uganda,2015,Jan,2015-01-01,25.0
 Uganda,2015,Feb,2015-02-01,15.0
 Uganda,2015,Mar,2015-03-01,20.0
@@ -28216,6 +28418,7 @@ Uganda,2026,Apr,2026-04-01,110.0
 Uganda,2026,May,2026-05-01,230.0
 Uganda,2026,Jun,2026-06-01,285.0
 Uganda,2026,Jul,2026-07-01,225.0
+Uganda,2026,Aug,2026-08-01,375.0
 Ukraine,2015,Jan,2015-01-01,120.0
 Ukraine,2015,Feb,2015-02-01,155.0
 Ukraine,2015,Mar,2015-03-01,160.0
@@ -28355,6 +28558,7 @@ Ukraine,2026,Apr,2026-04-01,490.0
 Ukraine,2026,May,2026-05-01,740.0
 Ukraine,2026,Jun,2026-06-01,765.0
 Ukraine,2026,Jul,2026-07-01,930.0
+Ukraine,2026,Aug,2026-08-01,800.0
 United Arab Emirates,2015,Jan,2015-01-01,0.0
 United Arab Emirates,2015,Feb,2015-02-01,0.0
 United Arab Emirates,2015,Mar,2015-03-01,0.0
@@ -28494,6 +28698,7 @@ United Arab Emirates,2026,Apr,2026-04-01,0.0
 United Arab Emirates,2026,May,2026-05-01,0.0
 United Arab Emirates,2026,Jun,2026-06-01,
 United Arab Emirates,2026,Jul,2026-07-01,
+United Arab Emirates,2026,Aug,2026-08-01,
 United Kingdom and Overseas Territories,2015,Jan,2015-01-01,320.0
 United Kingdom and Overseas Territories,2015,Feb,2015-02-01,305.0
 United Kingdom and Overseas Territories,2015,Mar,2015-03-01,400.0
@@ -28633,6 +28838,7 @@ United Kingdom and Overseas Territories,2026,Apr,2026-04-01,280.0
 United Kingdom and Overseas Territories,2026,May,2026-05-01,255.0
 United Kingdom and Overseas Territories,2026,Jun,2026-06-01,250.0
 United Kingdom and Overseas Territories,2026,Jul,2026-07-01,370.0
+United Kingdom and Overseas Territories,2026,Aug,2026-08-01,490.0
 United States of America,2015,Jan,2015-01-01,455.0
 United States of America,2015,Feb,2015-02-01,450.0
 United States of America,2015,Mar,2015-03-01,470.0
@@ -28772,6 +28978,7 @@ United States of America,2026,Apr,2026-04-01,580.0
 United States of America,2026,May,2026-05-01,615.0
 United States of America,2026,Jun,2026-06-01,595.0
 United States of America,2026,Jul,2026-07-01,645.0
+United States of America,2026,Aug,2026-08-01,725.0
 Uruguay,2015,Jan,2015-01-01,
 Uruguay,2015,Feb,2015-02-01,
 Uruguay,2015,Mar,2015-03-01,
@@ -28911,6 +29118,7 @@ Uruguay,2026,Apr,2026-04-01,
 Uruguay,2026,May,2026-05-01,
 Uruguay,2026,Jun,2026-06-01,
 Uruguay,2026,Jul,2026-07-01,
+Uruguay,2026,Aug,2026-08-01,
 Uzbekistan,2015,Jan,2015-01-01,5.0
 Uzbekistan,2015,Feb,2015-02-01,5.0
 Uzbekistan,2015,Mar,2015-03-01,25.0
@@ -29050,6 +29258,7 @@ Uzbekistan,2026,Apr,2026-04-01,15.0
 Uzbekistan,2026,May,2026-05-01,10.0
 Uzbekistan,2026,Jun,2026-06-01,10.0
 Uzbekistan,2026,Jul,2026-07-01,30.0
+Uzbekistan,2026,Aug,2026-08-01,20.0
 Vanuatu,2015,Jan,2015-01-01,0.0
 Vanuatu,2015,Feb,2015-02-01,0.0
 Vanuatu,2015,Mar,2015-03-01,0.0
@@ -29189,6 +29398,7 @@ Vanuatu,2026,Apr,2026-04-01,0.0
 Vanuatu,2026,May,2026-05-01,0.0
 Vanuatu,2026,Jun,2026-06-01,0.0
 Vanuatu,2026,Jul,2026-07-01,0.0
+Vanuatu,2026,Aug,2026-08-01,0.0
 Venezuela,2015,Jan,2015-01-01,40.0
 Venezuela,2015,Feb,2015-02-01,40.0
 Venezuela,2015,Mar,2015-03-01,75.0
@@ -29328,6 +29538,7 @@ Venezuela,2026,Apr,2026-04-01,70.0
 Venezuela,2026,May,2026-05-01,125.0
 Venezuela,2026,Jun,2026-06-01,80.0
 Venezuela,2026,Jul,2026-07-01,140.0
+Venezuela,2026,Aug,2026-08-01,190.0
 Vietnam,2015,Jan,2015-01-01,90.0
 Vietnam,2015,Feb,2015-02-01,165.0
 Vietnam,2015,Mar,2015-03-01,180.0
@@ -29467,6 +29678,7 @@ Vietnam,2026,Apr,2026-04-01,440.0
 Vietnam,2026,May,2026-05-01,400.0
 Vietnam,2026,Jun,2026-06-01,395.0
 Vietnam,2026,Jul,2026-07-01,480.0
+Vietnam,2026,Aug,2026-08-01,410.0
 "Virgin Islands, British",2015,Jan,2015-01-01,0.0
 "Virgin Islands, British",2015,Feb,2015-02-01,0.0
 "Virgin Islands, British",2015,Mar,2015-03-01,0.0
@@ -29606,6 +29818,7 @@ Vietnam,2026,Jul,2026-07-01,480.0
 "Virgin Islands, British",2026,May,2026-05-01,0.0
 "Virgin Islands, British",2026,Jun,2026-06-01,0.0
 "Virgin Islands, British",2026,Jul,2026-07-01,0.0
+"Virgin Islands, British",2026,Aug,2026-08-01,0.0
 Western Sahara,2015,Jan,2015-01-01,0.0
 Western Sahara,2015,Feb,2015-02-01,0.0
 Western Sahara,2015,Mar,2015-03-01,0.0
@@ -29745,6 +29958,7 @@ Western Sahara,2026,Apr,2026-04-01,0.0
 Western Sahara,2026,May,2026-05-01,0.0
 Western Sahara,2026,Jun,2026-06-01,0.0
 Western Sahara,2026,Jul,2026-07-01,0.0
+Western Sahara,2026,Aug,2026-08-01,0.0
 Yemen,2015,Jan,2015-01-01,15.0
 Yemen,2015,Feb,2015-02-01,5.0
 Yemen,2015,Mar,2015-03-01,25.0
@@ -29883,7 +30097,8 @@ Yemen,2026,Mar,2026-03-01,45.0
 Yemen,2026,Apr,2026-04-01,65.0
 Yemen,2026,May,2026-05-01,55.0
 Yemen,2026,Jun,2026-06-01,100.0
-Yemen,2026,Jul,2026-07-01,120.0
+Yemen,2026,Jul,2026-07-01,125.0
+Yemen,2026,Aug,2026-08-01,110.0
 Zambia,2015,Jan,2015-01-01,
 Zambia,2015,Feb,2015-02-01,0.0
 Zambia,2015,Mar,2015-03-01,
@@ -30023,6 +30238,7 @@ Zambia,2026,Apr,2026-04-01,
 Zambia,2026,May,2026-05-01,15.0
 Zambia,2026,Jun,2026-06-01,10.0
 Zambia,2026,Jul,2026-07-01,25.0
+Zambia,2026,Aug,2026-08-01,10.0
 Zimbabwe,2015,Jan,2015-01-01,15.0
 Zimbabwe,2015,Feb,2015-02-01,15.0
 Zimbabwe,2015,Mar,2015-03-01,25.0
@@ -30162,3 +30378,4 @@ Zimbabwe,2026,Apr,2026-04-01,40.0
 Zimbabwe,2026,May,2026-05-01,105.0
 Zimbabwe,2026,Jun,2026-06-01,125.0
 Zimbabwe,2026,Jul,2026-07-01,95.0
+Zimbabwe,2026,Aug,2026-08-01,160.0
